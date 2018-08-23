@@ -2,21 +2,22 @@ package Iniciante;
 
 /*
  
- QUEST√ÉO
- Fa√ßa um programa que leia um valor e apresente o n√∫mero de Fibonacci 
- correspondente a este valor lido. Lembre que os 2 primeiros elementos 
- da s√©rie de Fibonacci s√£o 0 e 1 e cada pr√≥ximo termo √© a soma dos 2 
- anteriores a ele. Todos os valores de Fibonacci calculados neste problema 
- devem caber em um inteiro de 64 bits sem sinal.
+ QUEST√O
+ FaÁa um programa que leia um valor e apresente o n˙mero de Fibonacci 
+ correspondente a este valor lido. Lembre que os 2 primeiros elementos da 
+ sÈrie de Fibonacci s„o 0 e 1 e cada prÛximo termo È a soma dos 2 anteriores 
+ a ele. Todos os valores de Fibonacci calculados neste problema devem caber
+ em um inteiro de 64 bits sem sinal.
  
  ENTRADA
- A primeira linha da entrada cont√©m um inteiro T, indicando o n√∫mero de 
- casos de teste. Cada caso de teste cont√©m um √∫nico inteiro N (0 <= N <= 60), 
- correspondente ao N-esimo termo da s√©rie de Fibonacci.
+ A primeira linha da entrada contÈm um inteiro T, indicando o n˙mero de 
+ casos de teste. Cada caso de teste contÈm um ˙nico inteiro N (0 <= N <= 60), 
+ correspondente ao N-esimo termo da sÈrie de Fibonacci.
  
- SA√çDA
- Para cada caso de teste da entrada, imprima a mensagem "Fib(N) = X", onde 
- X √© o N-√©simo termo da s√©rie de Fibonacci.
+ SAÕDA
+ Para cada caso de teste da entrada, imprima a mensagem "Fib(N) = X", onde X È 
+ o N-Èsimo termo da sÈrie de Fibonacci.
+ 
  */
 
 import java.io.IOException;

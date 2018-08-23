@@ -2,20 +2,20 @@ package Iniciante;
 
 /*
  
- QUESTÃƒO
- Na matemÃ¡tica, um nÃºmero perfeito Ã© um nÃºmero inteiro para o qual a soma de 
- todos os seus divisores positivos prÃ³prios (excluindo ele mesmo) Ã© igual ao 
- prÃ³prio nÃºmero. Por exemplo o nÃºmero 6 Ã© perfeito, pois 1+2+3 Ã© igual a 6. 
- Sua tarefa Ã© escrever um programa que imprima se um determinado nÃºmero Ã© perfeito ou nÃ£o.
+ QUESTÃO
+ Na matemática, um número perfeito é um número inteiro para o qual a soma de 
+ todos os seus divisores positivos próprios (excluindo ele mesmo) é igual 
+ ao próprio número. Por exemplo o número 6 é perfeito, pois 1+2+3 é igual a 6. 
+ Sua tarefa é escrever um programa que imprima se um determinado número é perfeito ou não.
  
  ENTRADA
- A entrada contÃ©m vÃ¡rios casos de teste. A primeira linha da entrada contÃ©m um inteiro N 
- (1 <= N <= 20), indicando o nÃºmero de casos de teste da entrada. Cada uma das N linhas 
- seguintes contÃ©m um valor inteiro X (1 <= X <= 108), que pode ser ou nÃ£o, um nÃºmero perfeito.
+ A entrada contém vários casos de teste. A primeira linha da entrada contém um inteiro 
+ N (1 <= N <= 20), indicando o número de casos de teste da entrada. Cada uma das N linhas 
+ seguintes contém um valor inteiro X (1 <= X <= 108), que pode ser ou não, um número perfeito.
  
- SAÃDA
- Para cada caso de teste de entrada, imprima a mensagem â€œX eh perfeitoâ€ ou â€œX nao eh perfeitoâ€, 
- de acordo com a especificaÃ§Ã£o fornecida.
+ SAÍDA
+ Para cada caso de teste de entrada, imprima a mensagem “X eh perfeito” ou “X nao eh perfeito”, 
+ de acordo com a especificação fornecida.
  
  */
 
