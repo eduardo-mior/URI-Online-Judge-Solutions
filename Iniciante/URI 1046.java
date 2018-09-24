@@ -34,6 +34,5 @@ public class URI 1046 {
         } else {
            System.out.println("O JOGO DUROU 24 HORA(S)");
         }
- 
     }
 }

@@ -30,5 +30,4 @@ public class URI 1065 {
         }
         System.out.println(cont + " valores pares");
     }
-
 }

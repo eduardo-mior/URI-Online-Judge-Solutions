@@ -29,6 +29,5 @@ public class URI 1001 {
         int B = leitor.nextInt();
         int X = A + B;
         System.out.println("X = " + X);
- 
     }
 }

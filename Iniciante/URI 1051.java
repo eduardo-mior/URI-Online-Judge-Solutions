@@ -50,5 +50,4 @@ public class URI 1051 {
         	System.out.println(String.format("R$ %.2f", imposto));
         }
     }
-
 }

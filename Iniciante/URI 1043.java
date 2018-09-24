@@ -53,5 +53,4 @@ public class URI 1043 {
 			System.out.println(String.format("Area = %.1f", areaTrapezio));
 		}
 	}
-
 }
