@@ -16,7 +16,7 @@ package Iniciante;
  Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste e o 
  percentual de reajuste ganho, conforme exemplo abaixo.
  
- */
+*/
 
 import java.io.IOException;
 import java.text.DecimalFormat;
@@ -58,4 +58,5 @@ public class URI 1048 {
 		System.out.println("Reajuste ganho: " +df.format(reajuste));
 		System.out.println("Em percentual: " + percent + " %");
 	}
+	
 }

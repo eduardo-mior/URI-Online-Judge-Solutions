@@ -33,7 +33,7 @@ package Iniciante;
  Seu programa deverá imprimir a soma da quantidade de pedidos de cada pessoa. 
  Não haverá linha em branco entre os casos de teste.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -54,4 +54,5 @@ public class URI 2143 {
     		T = leitor.nextInt();
     	}
     }
+	
 }

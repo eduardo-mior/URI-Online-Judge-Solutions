@@ -27,7 +27,7 @@ package Iniciante;
  "Minimum note not reached" (sem aspas) caso nenhum estudante tenha tirado 
  uma nota maior ou igual a 8.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -51,4 +51,5 @@ public class URI 1983 {
     	if (maiorNota == 0) System.out.println("Minimum note not reached");
     	else System.out.println(matriculaMaiorNota);
     }
+	
 }

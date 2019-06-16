@@ -34,7 +34,7 @@ package Iniciante;
  Seu programa deve produzir uma única linha com um inteiro representando o 
  valor da carta que maximiza a probabilidade de o jogador ganhar a partida.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -51,4 +51,5 @@ public class URI 1933 {
 		else C = B;
 		System.out.println(C);
     }
+	
 }

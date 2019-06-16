@@ -24,7 +24,7 @@ package Iniciante;
  Imprimir o número lido invertido. Não esqueça de imprimir a quebra de linha 
  (\n) no final, caso contrário você receberá (Presentation Error).
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;

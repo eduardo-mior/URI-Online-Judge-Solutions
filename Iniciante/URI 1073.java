@@ -31,4 +31,5 @@ public class URI 1073 {
     		if (i % 2 == 0) System.out.println(i + "^2 = " + (i*i));
     	}
 	}
+	
 }

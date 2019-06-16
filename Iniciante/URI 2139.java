@@ -25,7 +25,7 @@ package Iniciante;
  imprima "Faltam X dias para o natal!", sendo X o número de dias que faltam 
  para o Natal.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -57,4 +57,5 @@ public class URI 2139 {
     		else System.out.println("Faltam " + faltando + " dias para o natal!");
     	}
     }
+	
 }

@@ -15,7 +15,7 @@ package Iniciante;
  e Y é o valor armazenado naquela posição. Cada valor do vetor deve ser apresentado 
  com 4 casas decimais.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1178 {
         	System.out.println(String.format("N[" + i + "] = %.4f", N[i]));
         }
     }
+	
 }

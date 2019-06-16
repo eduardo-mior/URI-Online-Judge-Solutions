@@ -20,7 +20,7 @@ package Iniciante;
  Para cada caso de teste de entrada do seu programa, você deve imprimir um 
  número real contendo o tempo da tentativa mais rápida de cada bateria.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 2863 {
         	System.out.println(melhor);
         }
     }
+	
 }

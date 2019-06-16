@@ -19,7 +19,7 @@ package Iniciante;
  Para cada caso, imprima quantos números estão dentro (in) e quantos valores estão 
  fora (out) do intervalo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 1072 {
     	System.out.println(in + " in");
     	System.out.println(out + " out");
     }
+	
 }

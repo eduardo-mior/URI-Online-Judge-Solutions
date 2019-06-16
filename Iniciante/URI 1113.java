@@ -16,7 +16,7 @@ package Iniciante;
  Para cada caso de teste imprima “Crescente”, caso os valores tenham sido 
  digitados na ordem crescente, caso contrário imprima a mensagem “Decrescente”.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1113 {
         	Y = leitor.nextInt();
     	}
     }
+	
 }

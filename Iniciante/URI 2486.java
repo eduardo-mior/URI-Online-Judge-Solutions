@@ -37,7 +37,7 @@ package Iniciante;
  recomendado; se o consumo está dentro do intervalo recomendado, imprima "X mg", 
  em que X representa a quantidade consumida diariamente pela pessoa.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -84,4 +84,5 @@ public class URI 2486 {
 			this.vitaminaC = vitaminaC;
 		}
 	}
+	
 }

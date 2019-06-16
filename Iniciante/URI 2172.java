@@ -23,7 +23,7 @@ package Iniciante;
  SAÍDA
  Para cada caso, seu programa deverá mostrar um valor E, referente ao novo EXP do monstro.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -42,4 +42,5 @@ public class URI 2172 {
     		M = leitor.nextDouble();
     	}
     }
+	
 }

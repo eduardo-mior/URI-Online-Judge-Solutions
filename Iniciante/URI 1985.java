@@ -30,7 +30,7 @@ package Iniciante;
  SAÍDA
  Você deve imprimir o valor da compra com duas casas decimais.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -55,4 +55,5 @@ public class URI 1985 {
     	}
     	System.out.println(String.format("%.2f", total));
     }
+	
 }

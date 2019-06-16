@@ -27,7 +27,7 @@ package Iniciante;
  A saída é dada em uma única linha. Se o sapo pode chegar no cano mais à 
  direita, escreva "YOU WIN". Se o sapo não consegue, escreva "GAME OVER".
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -53,4 +53,5 @@ public class URI 1961 {
     	if (WIN) System.out.println("YOU WIN");
     	else System.out.println("GAME OVER");
     }
+	
 }

@@ -26,7 +26,7 @@ package Iniciante;
  Para cada caso de teste, imprima um número T, que é o tempo gasto, em segundos, para 
  digitar a palavra do respectivo caso de teste, com aproximação de duas casas decimais.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2147 {
     		System.out.println(String.format("%.2f", T));
     	}
     }
+	
 }

@@ -14,7 +14,7 @@ package Iniciante;
  Imprima por extenso o nome do mês correspondente ao número existente na 
  entrada, com a primeira letra em maiúscula.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 1052 {
 	        case 12: System.out.println("December"); break;
         }
     }
+	
 }

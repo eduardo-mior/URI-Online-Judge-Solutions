@@ -22,7 +22,7 @@ package Iniciante;
  Para cada caso de teste imprima um número S, que é o resultado da soma dos N 
  termos da expressão.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -43,4 +43,5 @@ public class URI 1866 {
 			System.out.println(X);
 		}
     }
+	
 }

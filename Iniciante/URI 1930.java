@@ -33,7 +33,7 @@ package Iniciante;
  indicando o número máximo de aparelhos que podem ser conectados à energia num 
  mesmo instante.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -49,4 +49,5 @@ public class URI 1930 {
 		int totalTomadas = (T1 + T2 + T3 + T4) - 3;
 		System.out.println(totalTomadas);
     }
+	
 }

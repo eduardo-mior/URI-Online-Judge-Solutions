@@ -18,7 +18,7 @@ package Iniciante;
  seguido de "Retangulo: S" se o triângulo for retângulo ou "Retangulo: N" se não 
  for, conforme os exemplos. 
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;

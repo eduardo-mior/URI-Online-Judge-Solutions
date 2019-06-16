@@ -14,7 +14,7 @@ package Iniciante;
  Imprima a soma de todos os valores não divisíveis por 13 entre os dois valores 
  lidos na entrada, inclusive ambos se for o caso.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 1132 {
 		}
 		System.out.println(soma);
     }
+	
 }

@@ -20,7 +20,7 @@ package Iniciante;
  exemplo abaixo. Todas as letras deverão ser maiúsculas e sempre deverá 
  haver um espaço entre duas palavras impressas na mesma linha.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 1074 {
     		else if (x % 2 != 0 && x < 0) System.out.println("ODD NEGATIVE");
     	}
 	}
+	
 }

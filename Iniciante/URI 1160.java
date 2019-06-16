@@ -36,7 +36,7 @@ package Iniciante;
  interromper o programa imediatamente após passar de 100 anos, caso contrário você poderá 
  receber como resposta da submissão deste problema "Time Limit Exceeded".
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -69,4 +69,5 @@ public class URI 1160 {
         	}
         }
     }
+	
 }

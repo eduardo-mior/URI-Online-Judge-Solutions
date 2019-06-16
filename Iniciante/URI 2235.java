@@ -27,7 +27,7 @@ package Iniciante;
  Seu programa deve imprimir uma linha contendo o caracter “S” se é possível viajar
  e voltar para o presente, ou “N” caso contrário.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2235 {
 		else 
 			System.out.println("N");
 	}
+	
 }

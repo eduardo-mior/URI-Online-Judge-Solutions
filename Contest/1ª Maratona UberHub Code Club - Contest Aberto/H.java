@@ -22,4 +22,5 @@ public class H {
         }
         System.out.println(pontos);
     }
+	
 }

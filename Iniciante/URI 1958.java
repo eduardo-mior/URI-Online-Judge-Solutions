@@ -21,7 +21,7 @@ package Iniciante;
  A saída é o número X em uma única linha na notação científica detalhada acima. 
  Veja os exemplos abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -33,4 +33,5 @@ public class URI 1958 {
 		double X = leitor.nextDouble();
 		System.out.println(String.format((String.valueOf(X).startsWith("-") ? "" : "+") + "%.4E", X));
     }
+	
 }

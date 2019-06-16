@@ -24,7 +24,7 @@ package Iniciante;
  SÁIDA
  O arquivo de saída deve conter a quantidade de patinhos que retornaram.
 
- */
+*/
 
 import java.io.IOException;
 import java.math.BigInteger;
@@ -42,4 +42,5 @@ public class URI 2334 {
 			System.out.println(N.compareTo(BigInteger.ZERO) == 0 ? 0 : N.subtract(sub));
 		}
 	}
+	
 }

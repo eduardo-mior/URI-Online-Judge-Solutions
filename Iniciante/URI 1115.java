@@ -15,7 +15,7 @@ package Iniciante;
  Para cada caso de teste mostre em qual quadrante do sistema cartesiano se encontra a 
  coordenada lida, conforme o exemplo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -36,4 +36,5 @@ public class URI 1115 {
 			Y = leitor.nextInt();
 		}
     }
+	
 }

@@ -51,7 +51,7 @@ import java.util.Scanner;
  indicados na consulta imprima o caractere ‘S’, caso contrário imprima o 
  caractere ‘N’. Imprima uma linha em branco ao final de cada caso de teste.
  
- */
+*/
 
 public class URI 2631 {
 
@@ -94,7 +94,7 @@ class UF {
      *
      * @param  n the number of sites
      * @throws IllegalArgumentException if {@code n < 0}
-     */
+    */
     public UF(int n) {
         count = n;
         parent = new int[n];
@@ -111,7 +111,7 @@ class UF {
      * @param  p the integer representing one site
      * @return the component identifier for the component containing site {@code p}
      * @throws IllegalArgumentException unless {@code 0 <= p < n}
-     */
+    */
     public int find(int p) {
         while (p != parent[p]) {
             parent[p] = parent[parent[p]];    // path compression by halving
@@ -124,7 +124,7 @@ class UF {
      * Returns the number of components.
      *
      * @return the number of components (between {@code 1} and {@code n})
-     */
+    */
     public int count() {
         return count;
     }
@@ -138,7 +138,7 @@ class UF {
      *         {@code false} otherwise
      * @throws IllegalArgumentException unless
      *         both {@code 0 <= p < n} and {@code 0 <= q < n}
-     */
+    */
     public boolean connected(int p, int q) {
         return find(p) == find(q);
     }
@@ -151,7 +151,7 @@ class UF {
      * @param  q the integer representing the other site
      * @throws IllegalArgumentException unless
      *         both {@code 0 <= p < n} and {@code 0 <= q < n}
-     */
+    */
     public void union(int p, int q) {
         int rootP = find(p);
         int rootQ = find(q);
@@ -166,4 +166,5 @@ class UF {
         }
         count--;
     }
+	
 }

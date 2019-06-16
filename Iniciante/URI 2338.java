@@ -30,7 +30,7 @@ package Iniciante;
  SÁIDA
  A saída é divida em linhas, que representam a mensagem decodificada de cada caso de teste.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -86,4 +86,5 @@ public class URI 2338 {
 			default: return ' ';
 		}
 	}
+	
 }

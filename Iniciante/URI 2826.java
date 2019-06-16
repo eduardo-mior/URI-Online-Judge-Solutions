@@ -27,7 +27,7 @@ package Iniciante;
  SAÍDA
  A saída contém as mesmas 2 palavras, só que na ordem lexicográfica.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -49,4 +49,5 @@ public class URI 2826 {
 			System.out.println(B);
 		}
 	}
+	
 }

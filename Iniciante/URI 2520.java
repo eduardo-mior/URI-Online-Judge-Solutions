@@ -33,7 +33,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma linha contendo o menor tempo necessário para 
  ir até o monstrinho, em segundos.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -73,4 +73,5 @@ public class URI 2520 {
 			System.out.println(distancia);
 		}
 	}
+	
 }

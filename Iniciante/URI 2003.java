@@ -24,7 +24,7 @@ package Iniciante;
  Para cada caso de teste, imprima "Atraso maximo: X" (sem aspas), X indica 
  o atraso maximo (em minutos) de Bino no encontro com Cino.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -45,4 +45,5 @@ public class URI 2003 {
     		}
     	}
     }
+	
 }

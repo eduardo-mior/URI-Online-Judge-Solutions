@@ -23,7 +23,7 @@ package Iniciante;
  Para cada caso de teste, imprima a senha correspondente. Em todos os casos, 
  a fórmula será a mesma, igual aos exemplos abaixo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 2146 {
 	    	System.out.println(senha);
     	}
     }
+	
 }

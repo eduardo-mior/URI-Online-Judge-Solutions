@@ -28,7 +28,7 @@ package Iniciante;
  Para cada arquivo da entrada, terá um arquivo de saída. O arquivo de saída tem quatro 
  linhas da forma descrita nos itens 5, 6, 7 e 8. Conforme mostra o exemplo de saída a seguir.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -45,4 +45,5 @@ public class URI 2760 {
 		System.out.printf("%s%s%s\n", C, A, B);
 		System.out.printf("%.10s%.10s%.10s\n", A, B, C);
 	}
+	
 }

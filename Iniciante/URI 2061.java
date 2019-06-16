@@ -29,7 +29,7 @@ package Iniciante;
  A saída deve ser uma linha contendo o número final de abas.
 
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -48,4 +48,5 @@ public class URI 2061 {
     	}
     	System.out.println(N);
     }
+	
 }

@@ -16,7 +16,7 @@ package Iniciante;
  Para cada dupla de valores, imprima a sequência do menor até o maior e a 
  soma deles, conforme exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -48,4 +48,5 @@ public class URI 1101 {
         	soma = 0;
     	}
     }
+	
 }

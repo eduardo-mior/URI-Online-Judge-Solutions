@@ -20,7 +20,7 @@ package Iniciante;
  deve haver espaços em branco. Após a impressão de cada matriz deve ser deixada 
  uma linha em branco.
   
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -58,4 +58,5 @@ public class URI 1557 {
         	N = leitor.nextInt();
         }
     }
+	
 }

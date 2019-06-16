@@ -31,7 +31,7 @@ package Iniciante;
  SAÍDA
  Para cada caso de teste, imprima uma única linha contendo o nome do jogador vencedor.
 
- */
+*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -59,4 +59,5 @@ public class URI 1914 {
 			else System.out.println(nome2);
 		}
     }
+	
 }

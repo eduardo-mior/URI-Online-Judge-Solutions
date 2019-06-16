@@ -24,7 +24,7 @@ package Iniciante;
  A saída é dada em uma única linha. Caso a paisagem tenha o mesmo padrão da 
  Nlogônia, deve ser mostrado o número 1. Caso contrário, mostra-se o número 0.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -56,4 +56,5 @@ public class URI 2162 {
     	
     	System.out.println(padrao);
     }
+	
 }

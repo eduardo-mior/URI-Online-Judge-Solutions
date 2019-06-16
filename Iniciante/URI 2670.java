@@ -27,7 +27,7 @@ package Iniciante;
  Seu programa deve imprimir uma única linha, contendo o número total de minutos 
  a serem gastos com o melhor posicionamento possível da máquina.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -50,4 +50,5 @@ public class URI 2670 {
         	minutos = (A3 + A1) * 2;
         System.out.println(minutos);
     }
+	
 }

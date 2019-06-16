@@ -34,7 +34,7 @@ package Iniciante;
  SAÍDA
  Para cada caso de teste, imprima o nome da música correspondente.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -71,4 +71,5 @@ public class URI 2582 {
 			this.nome = nome;
 		}
 	}
+	
 }

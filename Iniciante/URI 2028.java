@@ -33,7 +33,7 @@ package Iniciante;
  linha a sequência de números com um espaço entre eles. É pedido que deixe 
  uma linha em branco após cada caso.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -66,4 +66,5 @@ public class URI 2028 {
     		caso++;
     	}
     }
+	
 }

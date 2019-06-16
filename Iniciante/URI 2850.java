@@ -19,7 +19,7 @@ package Iniciante;
  que ele utilizará. Caso ele levante as duas pernas, imprima “caiu”. Quebre 
  uma linha a cada caso de teste.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -36,4 +36,5 @@ public class URI 2850 {
             else System.out.println("caiu");
         }
     }
+	
 }

@@ -42,7 +42,7 @@ package Iniciante;
  não for possível serão decifrados como letras minúsculas). Após cada caso de 
  teste deve ser impressa uma linha em branco, inclusive após o último.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -115,4 +115,5 @@ public class URI 2502 {
 				|| c == '|' || c == '&' || c == '*' || c == '(' || c == ')'
 				|| c == '.' || c == ',' || c == ';' || c == ':' || c == '?';
 	}
+	
 }

@@ -13,7 +13,7 @@ package Iniciante;
  Imprima a mensagem conforme o exemplo fornecido, indicando a quantidade de valores 
  pares lidos.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -30,4 +30,5 @@ public class URI 1065 {
         }
         System.out.println(cont + " valores pares");
     }
+	
 }

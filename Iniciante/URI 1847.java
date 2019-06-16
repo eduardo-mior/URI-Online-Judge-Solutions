@@ -48,7 +48,7 @@ package Iniciante;
  Imprima uma linha contendo uma carinha feliz ou triste, representando como fica o humor do povo de Westeros 
  de acordo com as tendências climáticas.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -70,4 +70,5 @@ public class URI 1847 {
         else if (B == A && C < B) System.out.println(":(");
         else System.out.println(":(");
     }
+	
 }

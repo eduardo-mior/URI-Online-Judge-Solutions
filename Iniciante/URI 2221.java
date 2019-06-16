@@ -26,7 +26,7 @@ package Iniciante;
  Para instância na entrada você deverá imprimir o nome do treinador que irá vencer 
  a batalha, em caso de empate imprima: "Empate", sem aspas. 
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -52,4 +52,5 @@ public class URI 2221 {
     		else System.out.println("Empate");
     	}
     }
+	
 }

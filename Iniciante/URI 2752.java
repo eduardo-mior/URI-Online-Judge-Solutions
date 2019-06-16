@@ -22,7 +22,7 @@ package Iniciante;
  SAÍDA
  O resultado de seu programa deve ser escrito conforme o exemplo da saída.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -39,4 +39,5 @@ public class URI 2752 {
     	System.out.printf("<%30.20s>\n", A);
     	System.out.printf("<%-30.20s>\n", A);
     }
+	
 }

@@ -20,7 +20,7 @@ package Iniciante;
  A saída consiste de um única linha contendo os termos da sequência de 
  Iccanobif de tamanho N separados por um único espaço em branco.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -75,4 +75,5 @@ public class URI 2807 {
 		if (fim > down && up + 1 != fim)
 			sort(v, up + 1, fim);
 	}
+	
 }

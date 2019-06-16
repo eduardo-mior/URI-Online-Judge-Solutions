@@ -47,7 +47,7 @@ package Iniciante;
  Imprima "Jogador 1 ganha!" se o jogador 1 ganhou ou "Jogador 2 ganha!" se o 
  jogador 2 ganhou (sem as aspas).
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -69,4 +69,5 @@ public class URI 2059 {
     	else if (p == 1 && (j1 + j2) % 2 == 0) System.out.println("Jogador 1 ganha!");
     	else System.out.println("Jogador 2 ganha!");
     }
+	
 }

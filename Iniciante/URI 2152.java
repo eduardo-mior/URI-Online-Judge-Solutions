@@ -31,7 +31,7 @@ package Iniciante;
  seguido de um espaço, um hífen e um espaço, e da frase “A porta abriu!” ou 
  “A porta fechou!”, conforme a ocorrência registrada.
  
- */
+*/
 
 import java.io.IOException;
 import java.text.DecimalFormat;
@@ -60,4 +60,5 @@ public class URI 2152 {
     		System.out.println(log);
     	}
     }
+	
 }

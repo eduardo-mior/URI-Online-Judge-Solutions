@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  A saída deve conter uma das mensagens conforme descrito acima.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -27,4 +27,5 @@ public class URI 1044 {
 		if (A % B == 0 || B % A == 0) System.out.println("Sao Multiplos");
 		else System.out.println("Nao sao Multiplos");
 	}
+	
 }

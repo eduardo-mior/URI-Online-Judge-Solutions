@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  Imprima a saída conforme o exemplo fornecido. http://prntscr.com/jyfofk
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -28,4 +28,5 @@ public class URI 1144 {
 			System.out.println(i + " " + ((i*i)+1) + " " + ((i*i*i)+1));
 		}
     }
+	
 }

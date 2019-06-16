@@ -34,7 +34,7 @@ package Iniciante;
  SAÍDA
  A saída são três linhas, cada linha com um número da loteria.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -64,4 +64,5 @@ public class URI 1848 {
         	System.out.println(numero);
         }
     }
+	
 }

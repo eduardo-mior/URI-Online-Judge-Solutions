@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  Imprima todos valores que quando divididos por N dão resto = 2, um por linha.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -27,4 +27,5 @@ public class URI 1075 {
     		if (i % N == 2) System.out.println(i);
     	}
 	}
+	
 }

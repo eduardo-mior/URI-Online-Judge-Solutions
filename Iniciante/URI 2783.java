@@ -39,7 +39,7 @@ package Iniciante;
  Seu programa deve produzir um inteiro representando o número de figurinhas 
  carimbadas que falta para completar o álbum.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.HashSet;
@@ -63,4 +63,5 @@ public class URI 2783 {
         	if (!compradas.contains(i)) faltam++;
         System.out.println(faltam);
     }
+	
 }

@@ -51,4 +51,5 @@ public class URI 1018 {
         System.out.println(notas2 + " nota(s) de R$ 2,00");
         System.out.println(notas1 + " nota(s) de R$ 1,00");
     }
+	
 }

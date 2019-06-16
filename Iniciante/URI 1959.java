@@ -19,7 +19,7 @@ package Iniciante;
  SAÍDA
  A saída é o perímetro P do polígono regular em uma única linha.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -33,4 +33,5 @@ public class URI 1959 {
 		long P = N * L;
 		System.out.println(P);
     }
+	
 }

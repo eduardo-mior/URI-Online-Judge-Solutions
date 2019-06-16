@@ -30,7 +30,7 @@ package Iniciante;
  para indicar que Pepper é o vencedor, ou a mensagem "Putz vei, o Leo ta 
  demorando muito pra jogar..." se houver empate.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -104,4 +104,5 @@ public class URI 2626 {
 		// Caso contrario não
 		return false;
 	}
+	
 }

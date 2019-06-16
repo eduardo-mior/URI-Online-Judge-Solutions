@@ -18,7 +18,7 @@ package Iniciante;
  SAÍDA
  O resultado deve ser apresentado com uma casa decimal.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -53,4 +53,5 @@ public class URI 1043 {
 			System.out.println(String.format("Area = %.1f", areaTrapezio));
 		}
 	}
+	
 }

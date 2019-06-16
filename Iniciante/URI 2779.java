@@ -33,7 +33,7 @@ package Iniciante;
  Seu programa deve produzir uma única linha contendo um inteiro representando o 
  número de figurinhas que falta para completar o álbum.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.HashSet;
@@ -52,4 +52,5 @@ public class URI 2779 {
         int faltam = N - compradas.size();
         System.out.println(faltam);
     }
+	
 }

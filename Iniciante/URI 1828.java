@@ -43,7 +43,7 @@ package Iniciante;
  número do caso de teste (cuja contagem se inicia no número um) e R é uma das três 
  reações possíveis de Sheldon: "Bazinga!", "Raj trapaceou!", ou "De novo!".
  
- */
+*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -73,4 +73,5 @@ public class URI 1828 {
         	else System.out.println("Caso #" + i + ": Raj trapaceou!");
         }
     }
+	
 }

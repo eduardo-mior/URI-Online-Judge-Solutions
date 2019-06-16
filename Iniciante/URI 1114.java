@@ -15,7 +15,7 @@ package Iniciante;
  SAÍDA
  Para cada valor lido mostre a mensagem correspondente à descrição do problema.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -31,4 +31,5 @@ public class URI 1114 {
     	}
 		System.out.println("Acesso Permitido");
     }
+	
 }

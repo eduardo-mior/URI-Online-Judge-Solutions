@@ -11,7 +11,7 @@ package Iniciante;
  SAÍDA
  Escreva todos os divisores positivos de N, um valor por linha.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -25,4 +25,5 @@ public class URI 1157 {
         	if (N % i == 0) System.out.println(i);
         }
     }
+	
 }

@@ -37,7 +37,7 @@ package Iniciante;
  SAÍDA
  O resultado de seu programa deve ser escrito conforme o exemplo de saída.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -68,10 +68,11 @@ public class URI 2751 {
     	System.out.printf("9) d = %.2f%%\n", d);
     }
     
-    static void print(String s) {
+    private static void print(String s) {
     	System.out.print("\n");
     	for (int i = 0; i < s.length(); i++)
     		System.out.print("-");
     	System.out.print("\n");
     }
+	
 }

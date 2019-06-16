@@ -24,7 +24,7 @@ package Iniciante;
  lista. Observe a formatação da saída nos exemplos, pois ela deve ser 
  seguida rigorosamente.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -47,4 +47,5 @@ public class URI 2060 {
     	System.out.println(m4 + " Multiplo(s) de 4");
     	System.out.println(m5 + " Multiplo(s) de 5");
     }
+	
 }

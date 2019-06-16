@@ -28,7 +28,7 @@ package Iniciante;
  os dois presentes antes do final do expediente, ou "Deixa para amanha!" 
  caso contrário.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2717 {
     	else
     		System.out.println("Farei hoje!");
     }
+	
 }

@@ -13,7 +13,7 @@ package Iniciante;
  A saída contém um valor correspondente ao valor de S.
  O valor deve ser impresso com dois dígitos após o ponto decimal.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -26,4 +26,5 @@ public class URI 1155 {
     	}
     	System.out.println(String.format("%.2f", S));
     }
+	
 }

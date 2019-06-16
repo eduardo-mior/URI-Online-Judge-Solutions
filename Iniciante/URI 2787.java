@@ -21,7 +21,7 @@ package Iniciante;
  Imprima uma linha na saída. A linha deve conter um inteiro, representando a 
  cor da casa no canto inferior direito do tabuleiro: 1, se for branca; e 0, se for preta.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 2787 {
         else
         	System.out.println(0);
     }
+	
 }

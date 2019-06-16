@@ -31,7 +31,7 @@ package Iniciante;
  SAÍDA
  Imprima uma linha contendo a mensagem S adicionada do bit extra B.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -49,4 +49,5 @@ public class URI 2176 {
     	S += x % 2 == 0 ? 0 : 1; 
     	System.out.println(S);
     }
+	
 }

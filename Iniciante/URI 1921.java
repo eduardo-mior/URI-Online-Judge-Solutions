@@ -20,7 +20,7 @@ package Iniciante;
  Imprima um número inteiro, que será a quantidade de barbantes que Guilherme 
  terá que utilizar para tornar a pipa de n lados estável.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -33,4 +33,5 @@ public class URI 1921 {
 		long resposta = (N * (N - 3)) / 2;
 		System.out.println(resposta);
     }
+	
 }

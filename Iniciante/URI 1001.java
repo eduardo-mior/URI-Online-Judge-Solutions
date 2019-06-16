@@ -16,7 +16,7 @@ package Iniciante;
  da variável X e pelo final de linha. Cuide para que tenha um espaço 
  antes e depois do sinal de igualdade, conforme o exemplo abaixo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -30,4 +30,5 @@ public class URI 1001 {
         int X = A + B;
         System.out.println("X = " + X);
     }
+	
 }

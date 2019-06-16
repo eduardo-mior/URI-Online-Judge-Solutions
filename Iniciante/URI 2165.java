@@ -14,7 +14,7 @@ package Iniciante;
  linha de texto T tem até 140 caracteres. Se T tem mais de 140 caracteres, a 
  saída deve ser "MUTE".
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -26,4 +26,5 @@ public class URI 2165 {
     	String T = leitor.nextLine();
     	System.out.println(T.length() > 140 ? "MUTE" : "TWEET");
     }
+	
 }

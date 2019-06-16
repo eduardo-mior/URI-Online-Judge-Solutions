@@ -37,7 +37,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma linha contendo a palavra impeachment se 
  o líder deve ser afastado de seu cargo, ou acusacao arquivada caso contrário.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -58,4 +58,5 @@ public class URI 2540 {
 				System.out.println("acusacao arquivada");
 		}
 	}
+	
 }

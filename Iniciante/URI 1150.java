@@ -26,7 +26,7 @@ package Iniciante;
  Imprima uma linha com um número inteiro que representa a quantidade de números 
  inteiros que devem ser somadas, de acordo com a especificação acima.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -49,4 +49,5 @@ public class URI 1150 {
         }
         System.out.println(cont);
     }
+	
 }

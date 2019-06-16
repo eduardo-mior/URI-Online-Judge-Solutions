@@ -34,4 +34,5 @@ public class URI 1008 {
         System.out.println("NUMBER = " + n);
         System.out.println(String.format("SALARY = U$ %.2f" , SALARY));
     }
+	
 }

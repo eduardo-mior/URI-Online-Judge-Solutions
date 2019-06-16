@@ -25,7 +25,7 @@ package Iniciante;
  SAÍDA
  O resultado de seu programa deve ser escrito conforme o exemplo da saída.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -44,4 +44,5 @@ public class URI 2754 {
     	System.out.printf("%.3f - %.3f\n", A, B);
     	System.out.printf("%.3f - %.3f\n", A, B);
     }
+	
 }

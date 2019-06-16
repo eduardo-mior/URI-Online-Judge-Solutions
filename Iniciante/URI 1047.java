@@ -14,7 +14,7 @@ package Iniciante;
  SAÍDA
  Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -42,4 +42,5 @@ public class URI 1047 {
 		if (hInicio == hFim && mInicio == mFim) System.out.println("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)");
 		else System.out.println("O JOGO DUROU "+ totalH + " HORA(S) E " + totalM + " MINUTO(S)");
 	}
+	
 }

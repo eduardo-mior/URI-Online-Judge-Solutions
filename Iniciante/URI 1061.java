@@ -28,7 +28,7 @@ package Iniciante;
  
  Obs: Considere que o evento do caso de teste para o problema tem duração mínima de 1 minuto.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -91,4 +91,5 @@ public class URI 1061 {
         System.out.println(totalMinutos + " minuto(s)");
         System.out.println(totalSegundos + " segundo(s)");
     }
+	
 }

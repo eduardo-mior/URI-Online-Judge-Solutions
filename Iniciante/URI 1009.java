@@ -32,4 +32,5 @@ public class URI 1009 {
         double TOTAL = ((totalVendas * 15) / 100) + salarioFixo;
         System.out.println(String.format("TOTAL = R$ %.2f" , TOTAL));
     }
+	
 }

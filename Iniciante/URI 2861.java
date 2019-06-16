@@ -20,7 +20,7 @@ package Iniciante;
  SAÍDA
  Para cada pergunta, imprima a resposta que foi dita pelos três amigos.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -35,4 +35,5 @@ public class URI 2861 {
         	System.out.println("gzuz");
         }
     }
+	
 }

@@ -29,7 +29,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma única linha indicando o nível de velocidade 
  da lesma mais veloz do grupo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -51,4 +51,5 @@ public class URI 1789 {
         	System.out.println(nivel);
         }
 	}
+	
 }

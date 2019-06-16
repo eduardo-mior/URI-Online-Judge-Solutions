@@ -29,7 +29,7 @@ package Iniciante;
  Imprima um inteiro que indica a hora local prevista no destino, conforme os 
  exemplos abaixo. http://prntscr.com/k3ipn6
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -46,4 +46,5 @@ public class URI 2057 {
     	else if (hora < 0) hora += 24;
     	System.out.println(hora);
     }
+	
 }

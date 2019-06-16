@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  Imprima a sequencia conforme exemplo abaixo
 
- */
+*/
 
 import java.io.IOException;
 
@@ -27,4 +27,5 @@ public class URI 1096 {
 			i+=2;
 		}
 	}
+	
 }

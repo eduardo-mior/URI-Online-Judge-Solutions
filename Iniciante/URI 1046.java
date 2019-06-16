@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  Apresente a duração do jogo conforme exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -35,4 +35,5 @@ public class URI 1046 {
            System.out.println("O JOGO DUROU 24 HORA(S)");
         }
     }
+	
 }

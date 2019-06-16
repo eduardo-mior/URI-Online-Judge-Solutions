@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  A saída contém um valor inteiro, correspondente ao fatorial de N.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -28,4 +28,5 @@ public class URI 1153 {
         }
         System.out.println(fat);
     }
+	
 }

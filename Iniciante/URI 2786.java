@@ -34,7 +34,7 @@ package Iniciante;
  o número de lajotas do tipo 1 necessárias. A segunda deve conter um inteiro, 
  indicando o número de lajotas do tipo 2.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -50,4 +50,5 @@ public class URI 2786 {
         System.out.println(lajes1);
         System.out.println(lajes2);
     }
+	
 }

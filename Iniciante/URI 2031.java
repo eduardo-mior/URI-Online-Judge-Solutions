@@ -52,7 +52,7 @@ package Iniciante;
  
  Cada saída de um caso de teste deve estar em uma linha.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -75,4 +75,5 @@ public class URI 2031 {
     		else System.out.println("Sem ganhador");
     	}
     }
+	
 }

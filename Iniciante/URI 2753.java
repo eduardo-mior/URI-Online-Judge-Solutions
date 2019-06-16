@@ -18,15 +18,16 @@ package Iniciante;
  SAÍDA
  O resultado de seu programa deve ser o mesmo do exemplo de saída.
 
- */
+*/
 
 import java.io.IOException;
 
 public class URI 2753 {
 	
     public static void main(String[] args) throws IOException {
-    	for (int i = 97; i < 97+26; i++) {
+    	for (int i = 97; i < 97 + 26; i++) {
     		System.out.printf("%d e %c\n", i, i);
     	}
     }
+	
 }

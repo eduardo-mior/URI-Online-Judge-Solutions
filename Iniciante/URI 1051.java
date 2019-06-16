@@ -26,7 +26,7 @@ package Iniciante;
  com duas casas após o ponto. Se o valor de entrada for menor ou igual a 2000, deverá ser 
  impressa a mensagem "Isento".
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -50,4 +50,5 @@ public class URI 1051 {
         	System.out.println(String.format("R$ %.2f", imposto));
         }
     }
+	
 }

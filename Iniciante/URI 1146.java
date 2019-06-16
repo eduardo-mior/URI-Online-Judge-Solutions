@@ -17,7 +17,7 @@ package Iniciante;
  Para cada número N do arquivo de entrada deve ser impressa uma linha de 1 até N, conforme o 
  exemplo abaixo. Não deve haver espaço em branco após o último valor da linha.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -35,4 +35,5 @@ public class URI 1146 {
         	X = leitor.nextInt();
         }
     }
+	
 }

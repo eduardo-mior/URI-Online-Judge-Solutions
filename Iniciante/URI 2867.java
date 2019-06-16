@@ -21,7 +21,7 @@ package Iniciante;
  número inteiro contendo a quantidade de dígitos do resultado da potência 
  calculada no respectivo caso de teste.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -38,4 +38,5 @@ public class URI 2867 {
         	System.out.println(digitos);
         }
     }
+	
 }

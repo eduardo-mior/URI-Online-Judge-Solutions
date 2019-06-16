@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  Imprima a tabuada de N, conforme o exemplo fornecido.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -26,4 +26,5 @@ public class URI 1078 {
     		System.out.println(i + " x " + N + " = " + (N*i));
     	}
 	}
+	
 }

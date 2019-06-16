@@ -16,7 +16,7 @@ package Iniciante;
  é o valor armazenado na posição i. O primeiro número do vetor N (N[0]) irá receber 
  o valor de V.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1173 {
             System.out.println("N["+ i +"] = " + N[i]);
         }
     }
+	
 }

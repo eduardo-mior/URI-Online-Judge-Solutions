@@ -19,7 +19,7 @@ package Iniciante;
  "Primo" se o número por um número primo apenas; ou "Nada" se o número 
  possuir divisores além do 1 e ele mesmo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -55,4 +55,5 @@ public class URI 2674 {
     			return false;
     	return true;
     }
+	
 }

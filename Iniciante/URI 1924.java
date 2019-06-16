@@ -23,7 +23,7 @@ package Iniciante;
  SAÍDA
  Imprima o nome do curso que Vitória deve fazer, sem acentuação.
 
- */
+*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -40,4 +40,5 @@ public class URI 1924 {
 		}
 		System.out.println("Ciencia da Computacao");
     }
+	
 }

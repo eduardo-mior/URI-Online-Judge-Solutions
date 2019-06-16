@@ -25,7 +25,7 @@ package Iniciante;
  forma descrita nos itens 6, 7 e 8. Conforme mostra o exemplo de saída a seguir. Imprima os 
  valores de ponto flutuante com 6 casas decimais após a vírgula.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -45,4 +45,5 @@ public class URI 2761 {
 		System.out.printf("%d\t%.6f\t%c\t%s\n", A, B, C, D);
 		System.out.printf("%10d%10.6f%10c%10s\n", A, B, C, D);
 	}
+	
 }

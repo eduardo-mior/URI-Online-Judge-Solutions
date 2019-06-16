@@ -29,7 +29,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma linha contendo o número de vezes que a 
  técnica foi utilizada.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -45,6 +45,7 @@ public class URI 2544 {
 	}
 	
 	private static int log2(int N) {
-		return (int) (Math.log(N)/Math.log(2));
+		return (int) (Math.log(N) / Math.log(2));
 	}
+	
 }

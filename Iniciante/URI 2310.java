@@ -20,7 +20,7 @@ package Iniciante;
  SÁIDA
  A saída deve conter o percentual total de saques, bloqueios e ataques do time todo que resultaram em pontos, conforme mostrado no exemplo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2310 {
 		System.out.println(String.format("Pontos de Bloqueio: %.2f", saques) + " %.");
 		System.out.println(String.format("Pontos de Ataque: %.2f", ataques) + " %.");
 	}
+	
 }

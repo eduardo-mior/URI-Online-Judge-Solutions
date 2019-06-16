@@ -29,4 +29,5 @@ public class URI 1004 {
         int PROD = A * B;
         System.out.println("PROD = " + PROD);
     }
+	
 }

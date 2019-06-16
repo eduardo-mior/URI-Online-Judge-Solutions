@@ -39,7 +39,7 @@ package Iniciante;
  uma porcentagem o aumento do valor do ingresso. O valor deve ser acompanhado do 
  símbolo % e conter exatos dois dígitos após o ponto separador decimal.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -53,4 +53,5 @@ public class URI 1963 {
     	double aumento = (B*100 / A) - 100;
     	System.out.println(String.format("%.2f",aumento) + "%");
     }
+	
 }

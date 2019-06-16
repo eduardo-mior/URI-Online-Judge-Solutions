@@ -14,7 +14,7 @@ package Iniciante;
  valores ímpares que estão entre os valores fornecidos na entrada que 
  deverá caber em um inteiro.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -42,4 +42,5 @@ public class URI 1071 {
 		}
 		System.out.println(soma);
     }
+	
 }

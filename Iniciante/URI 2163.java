@@ -26,7 +26,7 @@ package Iniciante;
  representam a coordenada (X,Y) do sabre de luz, caso encontrado. Se o terreno 
  não tem um padrão de sabre de luz, X e Y são ambos zero.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -58,7 +58,6 @@ public class URI 2163 {
     	System.out.println(0 + " " + 0);
     }
     
-	
 	private static boolean isTheSword(int[][] mat, int i, int j) {
 		
 		if ((mat[i-1][j-1] == 7) && (mat[i-1][j] == 7) && 
@@ -69,4 +68,5 @@ public class URI 2163 {
 		
 		else { return false; }
 	}
+	
 }

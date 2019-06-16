@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  Imprima uma mensagem dizendo quantos valores positivos foram lidos.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -29,4 +29,5 @@ public class URI 1060 {
         }
         System.out.println(cont + " valores positivos");
     }
+	
 }

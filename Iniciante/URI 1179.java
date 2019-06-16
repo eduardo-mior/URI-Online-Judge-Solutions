@@ -17,7 +17,7 @@ package Iniciante;
  SAÍDA
  Imprima a saída conforme o exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -60,4 +60,5 @@ public class URI 1179 {
 			System.out.println("par[" + i + "] = " + par[i]);
         }
     }
+	
 }

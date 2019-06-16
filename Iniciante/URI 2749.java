@@ -29,7 +29,7 @@ package Iniciante;
  SAÍDA
  A saída será impresso conforme a figura acima.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -73,4 +73,5 @@ public class URI 2749 {
         	System.out.print("\n");
         }
     }
+	
 }

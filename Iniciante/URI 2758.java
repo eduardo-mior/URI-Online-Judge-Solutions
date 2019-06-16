@@ -42,7 +42,7 @@ package Iniciante;
  Para cada arquivo da entrada, terá um arquivo de saída. O arquivo de saída tem doze 
  linhas da forma descrita no item 7 e 8. Conforme mostra o exemplo de saída a seguir.
 
- */
+*/
 
 import java.io.IOException;
 import java.text.DecimalFormat;
@@ -97,4 +97,5 @@ public class URI 2758 {
 		System.out.println("A = " + df.format(A) + ", B = " + df.format(B));
 		System.out.println("C = " + df.format(C) + ", D = " + df.format(D));
 	}
+	
 }

@@ -15,7 +15,7 @@ package Iniciante;
  ENTRADA
  
  SAÍDA
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1865 {
 			else System.out.println("N");
 		}
     }
+	
 }

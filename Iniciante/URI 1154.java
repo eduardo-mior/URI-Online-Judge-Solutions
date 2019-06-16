@@ -16,7 +16,7 @@ package Iniciante;
  A saída contém um valor correspondente à média de idade dos indivíduos.
  A média deve ser impressa com dois dígitos após o ponto decimal.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -38,4 +38,5 @@ public class URI 1154 {
         double media = soma / cont;
         System.out.println(String.format("%.2f", media));
     }
+	
 }

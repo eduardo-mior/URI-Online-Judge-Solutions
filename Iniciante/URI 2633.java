@@ -28,7 +28,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma única linha com a sequência de peças de 
  carne que Yuri quer calcular. Cada peça deve estar separada por um único espaço.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -49,4 +49,5 @@ public class URI 2633 {
             System.out.println(String.join(" ", carnes.values()));
         }
     }
+	
 }

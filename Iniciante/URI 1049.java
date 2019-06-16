@@ -15,7 +15,7 @@ package Iniciante;
  SAÍDA
  Imprima o nome do animal correspondente à entrada fornecida.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -57,4 +57,5 @@ public class URI 1049 {
 			}
 		}
 	}
+	
 }

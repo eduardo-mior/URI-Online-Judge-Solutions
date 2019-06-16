@@ -18,7 +18,7 @@ package Iniciante;
  seguido do valor do cálculo. O valor deve ser apresentado com duas casas após 
  o ponto decimal.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -43,4 +43,5 @@ public class URI 1117 {
 		double media = (nota1 + nota2) / 2;
 		System.out.println(String.format("media = %.2f", media));
     }
+	
 }

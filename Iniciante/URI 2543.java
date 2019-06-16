@@ -37,7 +37,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma única linha com um número indicando 
  quantos gameplays seus de Contra-Strike foram publicados na página.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -58,4 +58,5 @@ public class URI 2543 {
 			System.out.println(cont);
 		}
 	}
+	
 }

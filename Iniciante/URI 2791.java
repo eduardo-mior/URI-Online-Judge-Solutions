@@ -31,7 +31,7 @@ package Iniciante;
  Escreva na saída uma linha contendo um inteiro entre 1 e 4, correspondendo 
  à posição onde o feijão estava.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -48,4 +48,5 @@ public class URI 2791 {
         	if (c[i] == 1) System.out.println(i+1);
         }
     }
+	
 }

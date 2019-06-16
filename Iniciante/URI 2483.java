@@ -17,7 +17,7 @@ package Iniciante;
  última letra a da frase. Uma quebra de linha é necessária após a impressão 
  da frase.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -33,4 +33,5 @@ public class URI 2483 {
 		}
 		System.out.printf("Feliz nat%sl!", a);
 	}
+	
 }

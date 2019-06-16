@@ -14,7 +14,7 @@ package Iniciante;
  SAÍDA
  Para cada N lido, apresente a saída conforme o exemplo fornecido.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -36,4 +36,5 @@ public class URI 1534 {
     		}
     	}
     }
+	
 }

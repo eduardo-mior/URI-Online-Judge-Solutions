@@ -16,7 +16,7 @@ package Iniciante;
  SAÍDA
  O resultado de seu programa deve ser escrito conforme o exemplo de saída.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -28,4 +28,5 @@ public class URI 2755 {
     	System.out.println("(^_-) (-_-) (-_^)");
     	System.out.println("(\"_\") ('.')");
     }
+	
 }

@@ -29,4 +29,5 @@ public class URI 1014 {
         double media = X/Y;
         System.out.println(String.format("%.3f km/l", media));   
     }
+	
 }

@@ -18,7 +18,7 @@ package Iniciante;
  Obs.: Cuide que a divisão entre dois inteiros em algumas linguagens como o C e 
  C++ gera outro inteiro. Utilize cast :)
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -36,4 +36,5 @@ public class URI 1116 {
 			else System.out.println((double) X / Y);
 		}
     }
+	
 }

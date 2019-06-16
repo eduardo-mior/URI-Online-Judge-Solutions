@@ -41,7 +41,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma linha contendo “Marcos” se Marcos é o 
  vencedor, “Leonardo” se Leonardo é o vencedor, ou “Empate” caso contrário (sem aspas).
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -79,4 +79,5 @@ public class URI 2542 {
 				System.out.println("Leonador");
 		}
 	}
+	
 }

@@ -20,7 +20,7 @@ package Iniciante;
  A saída é composta por todos "Ho" que Papai Noel deve falar separados por um 
  espaço. Após o último "Ho" deve ser apresentado um "!" encerrando o programa.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -35,4 +35,5 @@ public class URI 1759 {
         	else System.out.print("Ho ");
         }
     }
+	
 }

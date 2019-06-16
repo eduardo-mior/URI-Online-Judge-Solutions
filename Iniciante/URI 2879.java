@@ -50,7 +50,7 @@ package Iniciante;
  o apresentador revela um bode abrindo uma das duas portas que não foram 
  escolhidas inicialmente.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -66,4 +66,5 @@ public class URI 2879 {
         }
         System.out.println(vitorias);
     }
+	
 }

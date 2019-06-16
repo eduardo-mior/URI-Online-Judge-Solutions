@@ -30,4 +30,5 @@ public class URI 1003 {
         int SOMA = A + B;
         System.out.println("SOMA = " + SOMA);
     }
+	
 }

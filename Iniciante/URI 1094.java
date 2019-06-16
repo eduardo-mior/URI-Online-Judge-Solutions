@@ -24,7 +24,7 @@ package Iniciante;
  e o percentual de cada uma em relação ao total de cobaias utilizadas, sendo que o 
  percentual deve ser apresentado com dois dígitos após o ponto.
  
- */
+*/
 
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -62,4 +62,5 @@ public class URI 1094 {
     	System.out.println(String.format("Percentual de ratos: %.2f", mediaRatos) + " %");
     	System.out.println(String.format("Percentual de sapos: %.2f", mediaSapos) + " %");
 	}
+	
 }

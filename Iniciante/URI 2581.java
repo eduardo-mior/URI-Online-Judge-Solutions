@@ -15,7 +15,7 @@ package Iniciante;
  SAÍDA
  Para cada caso de teste, imprima a resposta de Toorg.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -30,4 +30,5 @@ public class URI 2581 {
 			System.out.println("I am Toorg!");
 		}
 	}
+	
 }

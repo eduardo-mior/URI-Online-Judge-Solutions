@@ -28,7 +28,7 @@ package Iniciante;
  Seu programa deve imprimir uma linha, contendo o número de classificados 
  para a próxima fase.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -78,4 +78,5 @@ public class URI 2663 {
 		if (fim > down && up + 1 != fim)
 			sort(v, up + 1, fim);
 	}
+	
 }

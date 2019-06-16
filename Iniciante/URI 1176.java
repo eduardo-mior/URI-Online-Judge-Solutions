@@ -18,7 +18,7 @@ package Iniciante;
  Para cada caso de teste da entrada, imprima a mensagem "Fib(N) = X", onde X é 
  o N-ésimo termo da série de Fibonacci.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 1176 {
 	        System.out.println("Fib("+ N +") = " + anterior);
         }
     }
+	
 }

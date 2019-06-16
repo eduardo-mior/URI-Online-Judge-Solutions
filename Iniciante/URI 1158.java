@@ -16,7 +16,7 @@ package Iniciante;
  SAÍDA
  Imprima a soma dos consecutivos números ímpares a partir do valor X.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -43,4 +43,5 @@ public class URI 1158 {
         	System.out.println(soma);
         }
     }
+	
 }

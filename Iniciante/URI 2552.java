@@ -31,7 +31,7 @@ package Iniciante;
  pão de queijo, imprima 9 para ela; caso contrário, imprima o número cuja posição 
  deve conter.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -69,4 +69,5 @@ public class URI 2552 {
 		if (j < c && mat[i][j + 1] == 1) p++;
 		return p;
 	}
+	
 }

@@ -34,7 +34,7 @@ package Iniciante;
  Seu programa deve produzir uma única linha, contendo um inteiro, 1, 2 ou 3, 
  indicando a pontuação do lançamento.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -51,4 +51,5 @@ public class URI 2780 {
         else
         	System.out.println(3);
     }
+	
 }

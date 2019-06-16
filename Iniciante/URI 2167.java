@@ -21,7 +21,7 @@ package Iniciante;
  A saída é o índice da medida em que houve a primeira queda de velocidade no 
  teste. Caso não aconteça uma queda de velocidade a saída deve ser o número zero.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2167 {
     	}
     	System.out.println(queda);
     }
+	
 }

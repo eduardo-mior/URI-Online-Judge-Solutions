@@ -36,7 +36,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma linha contendo o valor do seu IRA. Arredonde 
  e imprima a resposta com exatamente 4 casas decimais. 
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -59,4 +59,5 @@ public class URI 2533 {
 			System.out.println(String.format("%.4f", resultado));
 		}
 	}
+	
 }

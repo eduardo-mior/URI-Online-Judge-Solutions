@@ -16,7 +16,7 @@ package Iniciante;
  SAÍDA
  Imprima a saída conforme a explicação acima e o exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -41,4 +41,5 @@ public class URI 1159 {
         	X = leitor.nextInt();
         }
     }
+	
 }

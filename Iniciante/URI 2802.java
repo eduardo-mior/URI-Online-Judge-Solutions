@@ -18,7 +18,7 @@ package Iniciante;
  A saída consiste de uma única linha contendo um inteiro representando a 
  quantidade de partes do círculo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -31,4 +31,5 @@ public class URI 2802 {
         double resposta = ((Math.pow(N, 4.0)) - (6.0 * (Math.pow(N, 3.0))) + (23.0 * (Math.pow(N, 2.00))) - (18.0 * N) + 24.0 ) / 24;
         System.out.println(String.format("%.0f", resposta));
     }
+	
 }

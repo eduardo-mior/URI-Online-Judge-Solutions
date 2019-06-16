@@ -22,7 +22,7 @@ package Iniciante;
  seja um movimento válido de um cavalo no jogo de xadrez ou "INVALIDO" 
  caso contrário.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -64,4 +64,5 @@ public class URI 2808 {
 		
 		private static Pos get(char c) {return Pos.valueOf(String.valueOf(c));}
 	}
+	
 }

@@ -33,7 +33,7 @@ package Iniciante;
  Para cada caso de teste imprima uma linha contendo dois inteiros C e E, indicando 
  quantos guarda-chuvas Rafael deve comprar e guardar em sua casa e escritório.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -67,4 +67,5 @@ public class URI 2813 {
         }
         System.out.println(casaComprado + " " + trabComprado);
     }
+	
 }

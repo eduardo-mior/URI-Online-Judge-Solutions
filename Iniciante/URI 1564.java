@@ -20,7 +20,7 @@ package Iniciante;
  não haja reclamações para a presidente. Caso haja reclamações, a saída deverá 
  dizer "vai ter duas!".
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -36,4 +36,5 @@ public class URI 1564 {
         	else System.out.println("vai ter duas!");
         }
     }
+	
 }

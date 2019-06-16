@@ -22,7 +22,7 @@ package Iniciante;
  SAÍDA
  Em cada caso, imprima o menor raio possível em uma única linha
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -40,4 +40,5 @@ public class URI 1589 {
         	System.out.println(R3);
         }
     }
+	
 }

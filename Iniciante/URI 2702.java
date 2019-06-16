@@ -36,7 +36,7 @@ package Iniciante;
  Imprima uma única linha com um inteiro representando o número de passageiros 
  que seguramente não receberão sua escolha de refeição.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -57,4 +57,5 @@ public class URI 2702 {
     	if (Pr > Pa) semComida += Pr - Pa;
     	System.out.println(semComida);
     }
+	
 }

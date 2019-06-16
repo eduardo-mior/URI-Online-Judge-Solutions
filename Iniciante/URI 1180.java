@@ -18,7 +18,7 @@ package Iniciante;
  seguido de um espaço e da posição do vetor na qual se encontra o menor valor 
  lido, lembrando que o vetor inicia na posição zero.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;

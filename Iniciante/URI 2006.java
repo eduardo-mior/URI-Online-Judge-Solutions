@@ -27,7 +27,7 @@ package Iniciante;
  A saída contém um inteiro representando o número de concorrentes que obtiveram 
  a resposta correta.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2006 {
     	}
     	System.out.println(cont);
     }
+	
 }

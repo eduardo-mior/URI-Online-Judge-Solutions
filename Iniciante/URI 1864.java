@@ -31,7 +31,7 @@ package Iniciante;
  número e a localização dos espaços na frase. A única linha da saída deve 
  consistir apenas de letras maiúsculas e espaços e ser finalizada por fim de linha.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 1864 {
 		int N = leitor.nextInt();
 		System.out.println(citacao.substring(0, N));
     }
+	
 }

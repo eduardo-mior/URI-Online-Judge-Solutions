@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  Imprima todos os valores ímpares de 1 até X, inclusive X, se for o caso.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -26,4 +26,5 @@ public class URI 1067 {
         	if (i % 2 != 0) System.out.println(i);
         }
     }
+	
 }

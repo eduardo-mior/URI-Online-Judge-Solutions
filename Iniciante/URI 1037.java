@@ -18,7 +18,7 @@ package Iniciante;
  SAÍDA
  A saída deve ser uma mensagem conforme exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1037 {
         else if (valor > 75 && valor <= 100) System.out.println("Intervalo (75,100]");
         else System.out.println("Fora de intervalo");
     }
+	
 }

@@ -43,4 +43,5 @@ public class URI 1012 {
         System.out.println(String.format("QUADRADO: %.3f", QUADRADO));
         System.out.println(String.format("RETANGULO: %.3f", RETANGULO));  
     }
+	
 }

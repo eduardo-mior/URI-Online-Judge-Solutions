@@ -17,7 +17,7 @@ package Iniciante;
  Para cada arquivo da entrada, terá um arquivo de saída. O arquivo de saída tem 
  uma linha da forma descrita nos itens 2. Conforme mostra o exemplo de saída a seguir.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -31,4 +31,5 @@ public class URI 2762 {
 		int B = Integer.valueOf(STR.split("\\.")[1]);
 		System.out.printf("%d.%d\n", B, A);
 	}
+	
 }

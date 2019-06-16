@@ -30,4 +30,5 @@ public class URI 1007 {
         int DIFERENCA = (A * B - C * D);
         System.out.println("DIFERENCA = " + DIFERENCA);
     }
+	
 }

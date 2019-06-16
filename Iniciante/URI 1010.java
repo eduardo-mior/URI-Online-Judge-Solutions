@@ -35,4 +35,5 @@ public class URI 1010 {
         double total = (n1 * valor1) + (n2 * valor2);
         System.out.println(String.format("VALOR A PAGAR: R$ %.2f",total));   
     }
+	
 }

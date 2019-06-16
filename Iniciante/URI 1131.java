@@ -29,7 +29,7 @@ package Iniciante;
  descrição apresentada acima. Obs: a palavra "Gremio" deve ser impressa sem acento, 
  conforme o exemplo abaixo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -70,4 +70,5 @@ public class URI 1131 {
 		else if (vitoriasGremio > vitoriasInter) System.out.println("Gremio venceu mais");
 		else System.out.println("Nao houve vencedor");
     }
+	
 }

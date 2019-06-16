@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  Imprima todos os valores conforme exemplo abaixo, sempre em ordem crescente.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1133 {
 			}
 		}
     }
+	
 }

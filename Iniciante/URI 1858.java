@@ -24,7 +24,7 @@ package Iniciante;
  Imprima uma linha contendo o número da pessoa que Theon deve dizer ser seu algoz. 
  Se existe mais de uma resposta possível, imprima a menor.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -47,4 +47,5 @@ public class URI 1858 {
 		}
 		System.out.println(posMenor);
     }
+	
 }

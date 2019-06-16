@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maior".
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -34,4 +34,5 @@ public class URI 1013 {
         	System.out.println(valor3 + " eh o maior");
         }
     }
+	
 }

@@ -11,7 +11,7 @@ package Iniciante;
  SAÍDA
  Imprima todos os números pares entre 1 e 100, inclusive se for o caso, um em cada linha.
 
- */
+*/
 
 import java.io.IOException;
 
@@ -22,4 +22,5 @@ public class URI 1059 {
     		if (i % 2 == 0) System.out.println(i);
     	}
     }
+	
 }

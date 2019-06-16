@@ -17,7 +17,7 @@ package Iniciante;
  Para cada caso de teste de entrada, imprima a mensagem “X eh primo” ou “X nao 
  eh primo”, de acordo com a especificação fornecida.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -38,4 +38,5 @@ public class URI 1165 {
         	else System.out.println(X + " nao eh primo");
         }
     }
+	
 }

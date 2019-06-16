@@ -14,7 +14,7 @@ package Iniciante;
  SAÍDA
  A saída contém apenas um valor inteiro.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -35,4 +35,5 @@ public class URI 1149 {
         }
         System.out.println(soma);
     }
+	
 }

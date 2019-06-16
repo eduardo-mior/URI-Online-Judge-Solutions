@@ -32,7 +32,7 @@ package Iniciante;
  SAÍDA
  Para cada caso de teste, imprima uma única linha contendo a mensagem enviada por Will.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -52,4 +52,5 @@ public class URI 2523 {
 			System.out.println(word);
 		}
 	}
+	
 }

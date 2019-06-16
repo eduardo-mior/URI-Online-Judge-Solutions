@@ -21,7 +21,7 @@ package Iniciante;
  A saída tem N linhas. Em cada uma, deve ser indicado o ano A em que o correspondente 
  tempo T aconteceu. Veja o exemplo de saída.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -43,4 +43,5 @@ public class URI 1962 {
     		}
     	}
     }
+	
 }

@@ -17,7 +17,7 @@ package Iniciante;
  Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes 
  que abasteceram cada tipo de combustível, conforme exemplo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -46,4 +46,5 @@ public class URI 1134 {
 		System.out.println("Gasolina: " + gasolina);
 		System.out.println("Diesel: " + diesel);
     }
+	
 }

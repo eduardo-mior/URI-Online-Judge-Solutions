@@ -27,7 +27,7 @@ package Iniciante;
  o número de Estrelas atacadas pelo irmão louco e o segundo represente o 
  número total de carneiros não roubados.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -76,4 +76,5 @@ public class URI 1973 {
     	
     	System.out.println(totalEstrela + " " + totalCarneiro);
     }
+	
 }

@@ -16,7 +16,7 @@ package Iniciante;
  SAÍDA 
  A saída deve apresentar o quadrante em que o ponto se encontra.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -35,4 +35,5 @@ public class URI 1041 {
 		else if (y < 0 && x < 0) System.out.println("Q3");
 		else if (y < 0 && x > 0) System.out.println("Q4");
 	}
+	
 }

@@ -20,7 +20,7 @@ package Iniciante;
  exista subsequência, imprima "Nao existe subsequencia". Mostre o resultado 
  conforme o exemplo de saída.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -62,4 +62,5 @@ public class URI 2126 {
     		caso++;
     	}
     }
+	
 }

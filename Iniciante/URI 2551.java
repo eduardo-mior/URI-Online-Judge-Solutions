@@ -34,7 +34,7 @@ package Iniciante;
  quais o recorde foi batido. Cada dia deve ser impresso em uma linha. Imprima 
  os dias em ordem crescente. Note que o dia 1 sempre deve ser impresso.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -56,4 +56,5 @@ public class URI 2551 {
 			}
 		}
 	}
+	
 }

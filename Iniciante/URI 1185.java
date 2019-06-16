@@ -16,7 +16,7 @@ package Iniciante;
  SAÍDA
  Imprima o resultado solicitado (a soma ou média), com 1 casa após o ponto decimal.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -43,4 +43,5 @@ public class URI 1185 {
         if (O == 'M') soma /= ((M.length * M.length) - 12) / 2; // 66
     	System.out.println(String.format("%.1f", soma));
     }
+	
 }

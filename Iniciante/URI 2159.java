@@ -18,7 +18,7 @@ package Iniciante;
  de acordo com a fórmula dada acima. Os valores devem ser separados por um 
  espaço em branco.
  
- */
+*/
 
 import java.io.IOException;
 import java.text.DecimalFormat;
@@ -34,4 +34,5 @@ public class URI 2159 {
     	double M = 1.25506 * (n / Math.log(n));
     	System.out.println(df.format(P) + " " + df.format(M));
     }
+	
 }

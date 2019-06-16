@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  A saída será uma sequência de seis números ímpares.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -31,4 +31,5 @@ public class URI 1070 {
     		x++;
         }
     }
+	
 }

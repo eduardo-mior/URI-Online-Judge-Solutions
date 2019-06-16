@@ -14,7 +14,7 @@ package Iniciante;
  Para cada posição do vetor N, escreva "N[i] = Y", onde i é a posição do 
  vetor e Y é o valor armazenado naquela posição.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 1175 {
             System.out.println("N["+ i +"] = " + N[i]);
         }
     }
+	
 }

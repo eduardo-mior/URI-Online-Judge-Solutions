@@ -16,4 +16,5 @@ public class K {
         else
         	System.out.println("Forme a cruz!");
     }
+	
 }

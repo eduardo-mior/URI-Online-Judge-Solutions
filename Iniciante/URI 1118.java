@@ -30,7 +30,7 @@ package Iniciante;
 
  A média deve ser impressa com dois dígitos após o ponto decimal.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -65,4 +65,5 @@ public class URI 1118 {
 			}
 		}
     }
+	
 }

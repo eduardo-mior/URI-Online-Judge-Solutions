@@ -15,7 +15,7 @@ package Iniciante;
  O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser 
  pago, com 2 casas após o ponto decimal.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 1038 {
 		}
 		System.out.println(String.format("Total: R$ %.2f", total));
 	}
+	
 }

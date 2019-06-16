@@ -14,7 +14,7 @@ package Iniciante;
  Imprima a mensagem conforme o exemplo fornecido, uma mensagem por linha, 
  não esquecendo o final de linha após cada uma.
  	
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -40,4 +40,5 @@ public class URI 1066 {
         System.out.println(contPositivos + " valor(es) positivo(s)");
         System.out.println(contNegativos + " valor(es) negativo(s)");
     }
+	
 }

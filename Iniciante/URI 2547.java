@@ -34,7 +34,7 @@ package Iniciante;
  Para cada caso de teste, imprima uma única linha com o número visitantes que 
  podem passear na montanha-russa.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -55,4 +55,5 @@ public class URI 2547 {
 			System.out.println(cont);
 		}
 	}
+	
 }

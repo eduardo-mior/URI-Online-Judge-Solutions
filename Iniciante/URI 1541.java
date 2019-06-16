@@ -30,7 +30,7 @@ package Iniciante;
  Você deverá informar um número inteiro, o qual representa a medida do lado do terreno. 
  Este valor deverá ser truncado caso necessário.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -47,4 +47,5 @@ public class URI 1541 {
         	System.out.println((int)X);
         }
     }
+	
 }

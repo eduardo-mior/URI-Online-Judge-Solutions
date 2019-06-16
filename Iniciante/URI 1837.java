@@ -35,7 +35,7 @@ package Iniciante;
  SAÍDA
  Imprima o quociente q seguido pelo resto r da divisão de a por b.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -65,4 +65,5 @@ public class URI 1837 {
         
         System.out.println(q + " " + r);
     }
+	
 }

@@ -20,7 +20,7 @@ package Iniciante;
  Seu programa deverá imprimir "possible" se for possível devolver o troco 
  exato ou "impossible" se não for possível.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -48,4 +48,5 @@ public class URI 2140 {
     		else System.out.println("impossible");
     	}
     }
+	
 }

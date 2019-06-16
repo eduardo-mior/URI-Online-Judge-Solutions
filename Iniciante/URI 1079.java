@@ -18,7 +18,7 @@ package Iniciante;
  Para cada caso de teste, imprima a média ponderada dos 3 valores, 
  conforme exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 1079 {
     		System.out.println(String.format("%.1f", media));
     	}
 	}
+	
 }

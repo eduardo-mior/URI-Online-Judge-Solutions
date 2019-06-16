@@ -21,7 +21,7 @@ package Iniciante;
  SAÍDA
  A saída é o valor aproximado da raiz quadrada com 10 casas decimais.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -39,4 +39,5 @@ public class URI 2161 {
         x += 3.0;
     	System.out.println(String.format("%.10f", x));
     }
+	
 }

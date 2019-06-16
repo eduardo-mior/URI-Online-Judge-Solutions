@@ -21,7 +21,7 @@ package Iniciante;
  Para cada caso de teste, imprima a matriz correspondente conforme o exemplo 
  abaixo. Após cada caso de teste, imprima uma linha em branco. http://prntscr.com/k1snnj
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -49,4 +49,5 @@ public class URI 1827 {
     		System.out.print("\n");
         }
 	}
+	
 }

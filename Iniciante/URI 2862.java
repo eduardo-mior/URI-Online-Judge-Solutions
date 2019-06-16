@@ -20,7 +20,7 @@ package Iniciante;
  SAÍDA
  Para cada valor lido, imprima o texto correspondente.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -38,4 +38,5 @@ public class URI 2862 {
         		System.out.println("Inseto!");
         }
     }
+	
 }

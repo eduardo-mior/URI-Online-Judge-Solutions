@@ -13,7 +13,7 @@ package Iniciante;
  SAÍDA
  Imprima a saída conforme foi especificado.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -59,4 +59,5 @@ public class URI 1042 {
 		System.out.println(B);
 		System.out.println(C);
 	}
+	
 }

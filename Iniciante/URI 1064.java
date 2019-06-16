@@ -15,7 +15,7 @@ package Iniciante;
  O primeiro valor de saída é a quantidade de valores positivos. A próxima 
  linha deve mostrar a média dos valores positivos digitados.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -40,4 +40,5 @@ public class URI 1064 {
         System.out.println(cont + " valores positivos");
         System.out.println(String.format("%.1f", media));
     }
+	
 }

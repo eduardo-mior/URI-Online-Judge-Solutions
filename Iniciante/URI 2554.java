@@ -36,7 +36,7 @@ package Iniciante;
  ocorrer, na forma dia/mes/ano, de maneira idêntica à da entrada. Caso não seja 
  possível realizar o evento, imprima “Pizza antes de FdI” (sem aspas).
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -65,4 +65,5 @@ public class URI 2554 {
 			System.out.println(oficialDate.trim());
 		}
 	}
+	
 }

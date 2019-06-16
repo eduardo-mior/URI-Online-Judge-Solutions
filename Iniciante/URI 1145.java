@@ -14,7 +14,7 @@ package Iniciante;
  entre cada número, conforme exemplo abaixo. Não deve haver espaço em branco 
  após o último valor da linha.
  	
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -33,4 +33,5 @@ public class URI 1145 {
 
 		}
     }
+	
 }

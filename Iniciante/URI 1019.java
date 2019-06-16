@@ -30,4 +30,5 @@ public class URI 1019 {
         int segundos = duracaoSegundos;
         System.out.println(horas + ":" + minutos + ":" + segundos);		
     }
+	
 }

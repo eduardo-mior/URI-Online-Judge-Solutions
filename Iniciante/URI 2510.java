@@ -29,7 +29,7 @@ package Iniciante;
  SAÍDA
  Caso o vilão alguma vez já foi capturado pelo Batmain, imprima Y. Caso contrário, imprima N.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -44,4 +44,5 @@ public class URI 2510 {
 			System.out.println("Y");
 		}
 	}
+	
 }

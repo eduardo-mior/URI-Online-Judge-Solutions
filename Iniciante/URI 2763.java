@@ -18,7 +18,7 @@ package Iniciante;
  quatro linhas com um número inteiro em cada uma delas, conforme foi entrado. 
  Conforme mostra o exemplo de saída a seguir.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 2763 {
 		System.out.println(C);
 		System.out.println(D);
 	}
+	
 }

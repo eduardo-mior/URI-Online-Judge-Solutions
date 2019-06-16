@@ -30,7 +30,7 @@ package Iniciante;
  Na saída você deve imprimir para cada linha o caractere 'Y' caso seja possível 
  atingir o invasor ou 'N' caso contrário, ambos seguidos de uma quebra de linha.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -55,4 +55,5 @@ public class URI 2203 {
     		else System.out.println("Y");
     	}
     }
+	
 }

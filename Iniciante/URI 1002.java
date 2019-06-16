@@ -31,4 +31,5 @@ public class URI 1002 {
 		double area = n * (raio * raio);
 		System.out.println(String.format("A=%.4f", area)); 
 	}
+	
 }

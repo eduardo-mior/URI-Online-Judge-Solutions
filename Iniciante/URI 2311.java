@@ -27,7 +27,7 @@ package Iniciante;
  A saída deve apresentar o resultado da competição, com o nome dos competidores 
  seguido de seu resultado, na ordem em que os dados foram lidos. 
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -74,4 +74,5 @@ public class URI 2311 {
 		}
 		return (soma * dificuldade);
 	}
+	
 }

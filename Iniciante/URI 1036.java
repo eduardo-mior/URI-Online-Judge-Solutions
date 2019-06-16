@@ -17,7 +17,7 @@ package Iniciante;
  dígitos após o ponto, com uma mensagem correspondente conforme exemplo abaixo. 
  Imprima sempre o final de linha após cada mensagem.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -41,4 +41,5 @@ public class URI 1036 {
         System.out.println(String.format("R1 = %.5f", R1));
         System.out.println(String.format("R2 = %.5f", R2));
     }
+	
 }

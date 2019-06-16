@@ -24,7 +24,7 @@ package Iniciante;
  Imprima a lista ordenada como Laércio requisitou, com um espaço entre os 
  valores, pulando uma linha a cada caso teste.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -69,4 +69,5 @@ public class URI 2812 {
 			System.out.println(str.trim());
 		}
 	}
+	
 }

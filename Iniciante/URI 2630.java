@@ -36,7 +36,7 @@ package Iniciante;
  conversão do pixel da imagem colorida. Esta mensagem deve ser seguida de uma 
  quebra de linha.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -82,4 +82,5 @@ public class URI 2630 {
 		if (b > c) return b;
 		else return c;
 	}
+	
 }

@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  Imprima a sequencia conforme exemplo abaixo
 
- */
+*/
 
 import java.io.IOException;
 import java.text.DecimalFormat;
@@ -37,4 +37,5 @@ public class URI 1098 {
 			i+=0.2;
 		}
 	}
+	
 }

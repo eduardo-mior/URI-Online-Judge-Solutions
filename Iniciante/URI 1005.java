@@ -33,4 +33,5 @@ public class URI 1005 {
         double MEDIA = ((3.5*A) + (7.5*B))/11;
         System.out.println(String.format("MEDIA = %.5f" , MEDIA));
     }
+	
 }

@@ -37,7 +37,7 @@ package Iniciante;
  Para cada caso de teste, imprima, para cada consulta, uma linha contendo a 
  nota do cidadão que ficou classificado na posição pi.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -87,4 +87,5 @@ public class URI 2534 {
 		if (fim > down && up + 1 != fim)
 			quickSort(v, up + 1, fim);
 	}
+	
 }

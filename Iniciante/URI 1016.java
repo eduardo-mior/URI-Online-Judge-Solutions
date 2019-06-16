@@ -31,4 +31,5 @@ public class URI 1016 {
         int minutos = (60*km) / 30;
         System.out.println(minutos + " minutos"); 
     }
+	
 }

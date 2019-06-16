@@ -29,7 +29,7 @@ package Iniciante;
  ser impressas conforme a descrição do problema. Não esqueça de imprimir o enter após 
  o final de cada linha, caso contrário obterá "Presentation Error".
  
- */
+*/
 
 import java.io.IOException;
 import java.text.DecimalFormat;
@@ -63,4 +63,5 @@ public class URI 1040 {
         	System.out.println("Aluno reprovado.");
         }
 	}
+	
 }

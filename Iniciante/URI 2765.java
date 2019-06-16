@@ -18,7 +18,7 @@ package Iniciante;
  Para cada arquivo da entrada, terá um arquivo de saída. O arquivo de saída tem duas 
  linhas conforme os passos 2 e 3. Conforme mostra o exemplo de saída a seguir.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -33,4 +33,5 @@ public class URI 2765 {
 		System.out.println(A);
 		System.out.println(B);
 	}
+	
 }

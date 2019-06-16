@@ -29,7 +29,7 @@ package Iniciante;
  quadra correspondente é segura ou insegura. Se uma quadra é segura, mostre 
  o caractere S; se não é segura, mostre o caractere U.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -67,4 +67,5 @@ public class URI 2168 {
     	if (cont > 1) return true;
     	else return false;
     }
+	
 }

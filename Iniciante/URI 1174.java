@@ -14,7 +14,7 @@ package Iniciante;
  Para cada valor do vetor menor ou igual a 10, escreva "A[i] = x", onde i é a 
  posição do vetor e x é o valor armazenado na posição, com uma casa após o ponto decimal.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -31,4 +31,5 @@ public class URI 1174 {
             if (A[i] <= 10) System.out.println(String.format("A["+ i +"] = %.1f" , A[i]));
         }
     }
+	
 }

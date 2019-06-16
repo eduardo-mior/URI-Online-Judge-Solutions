@@ -37,7 +37,7 @@ package Iniciante;
  A saída consiste de uma única linha contendo o número do duende que sediará 
  a festa de Giovana em sua casa.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -72,4 +72,5 @@ public class URI 2845 {
         	return b;
         return mdc( b % a, a );
     }
+	
 }

@@ -22,7 +22,7 @@ package Iniciante;
  deve ser ‘S’ caso seja possível formar o triângulo, ou ‘N’ caso não seja 
  possível formar o triângulo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -22,7 +22,7 @@ package Iniciante;
  SAÍDA
  Imprima todas as classificações do triângulo especificado na entrada.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -56,4 +56,5 @@ public class URI 1045 {
 			if ((A == B && A != C) || (A == C && A != B) || (B == C && B != A)) System.out.println("TRIANGULO ISOSCELES");
 		}
 	}
+	
 }

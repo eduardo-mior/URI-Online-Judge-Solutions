@@ -29,7 +29,7 @@ package Iniciante;
  médio de cachorros-quentes consumidos pelos participantes. O resultado deve ser escrito 
  como um número racional com exatamente dois dígitos após o ponto decimal, arredondado se necessário.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -43,4 +43,5 @@ public class URI 2234 {
 		double media = H / P;
 		System.out.println(String.format("%.2f", media));
 	}
+	
 }

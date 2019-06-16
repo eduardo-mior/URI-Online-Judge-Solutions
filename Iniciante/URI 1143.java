@@ -26,4 +26,5 @@ public class URI 1143 {
 			System.out.println(i + " " + (i*i) + " " + (i*i*i));
 		}
     }
+	
 }

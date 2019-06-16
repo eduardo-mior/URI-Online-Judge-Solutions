@@ -17,7 +17,7 @@ package Iniciante;
  linha de texto L tem até 80 caracteres. Se L tem mais de 80 caracteres, a 
  saída deve ser "NO".
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -29,4 +29,5 @@ public class URI 2160 {
     	String nome = leitor.nextLine();
     	System.out.println(nome.length() > 80 ? "NO" : "YES");
     }
+	
 }

@@ -12,7 +12,7 @@ package Iniciante;
  SAÍDA
  Apresente o maior valor lido e a posição de entrada, conforme exemplo abaixo.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -37,4 +37,5 @@ public class URI 1080 {
 		System.out.println(maior);
 		System.out.println(posMaior);
 	}
+	
 }

@@ -30,7 +30,7 @@ package Iniciante;
  jogadores que erraram a resposta e, desta forma, não passarão para a próxima 
  fase do jogo.
  
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -102,4 +102,5 @@ public class URI 2493 {
 			default: return true;
 		}
 	}
+	
 }

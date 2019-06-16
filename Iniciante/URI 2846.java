@@ -27,7 +27,7 @@ package Iniciante;
  SAÍDA
  Um único inteiro representando o K-ésimo termo da sequência de Fibonot.
 
- */
+*/
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -55,4 +55,5 @@ public class URI 2846 {
 	private static boolean isFib(long c) {
 		return (Square(5 * c * c + 4) || Square(5 * c * c - 4)) ;
 	}
+	
 }
