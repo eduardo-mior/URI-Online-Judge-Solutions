@@ -24,10 +24,10 @@ public class URI 1004 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int A = leitor.nextInt();
-        int B = leitor.nextInt();
-        int PROD = A * B;
-        System.out.println("PROD = " + PROD);
+        int a = leitor.nextInt();
+        int b = leitor.nextInt();
+        int prod = a * b;
+        System.out.println("PROD = " + prod);
     }
 	
 }

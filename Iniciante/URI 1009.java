@@ -28,9 +28,9 @@ public class URI 1009 {
         Scanner leitor = new Scanner(System.in);
         String nome = leitor.next();
         double salarioFixo = leitor.nextDouble();
-        double totalVendas = leitor.nextDouble();
-        double TOTAL = ((totalVendas * 15) / 100) + salarioFixo;
-        System.out.println(String.format("TOTAL = R$ %.2f" , TOTAL));
+        double vendas = leitor.nextDouble();
+        double total = ((vendas * 15) / 100) + salarioFixo;
+        System.out.println(String.format("TOTAL = R$ %.2f" , total));
     }
 	
 }

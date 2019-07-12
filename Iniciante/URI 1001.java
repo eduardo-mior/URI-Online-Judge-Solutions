@@ -25,10 +25,10 @@ public class URI 1001 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int A = leitor.nextInt();
-        int B = leitor.nextInt();
-        int X = A + B;
-        System.out.println("X = " + X);
+        int a = leitor.nextInt();
+        int b = leitor.nextInt();
+        int x = a + b;
+        System.out.println("X = " + x);
     }
 	
 }

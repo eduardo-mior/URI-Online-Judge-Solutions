@@ -27,12 +27,12 @@ public class URI 1008 {
 	
 	public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int n = leitor.nextInt();
+        int funcionarios = leitor.nextInt();
         int horas = leitor.nextInt();
-        double valor = leitor.nextDouble();
-        double SALARY = horas * valor;
-        System.out.println("NUMBER = " + n);
-        System.out.println(String.format("SALARY = U$ %.2f" , SALARY));
+        double valorPorHora = leitor.nextDouble();
+        double salario = horas * valorPorHora;
+        System.out.println("NUMBER = " + funcionarios);
+        System.out.println(String.format("SALARY = U$ %.2f" , salario));
     }
 	
 }

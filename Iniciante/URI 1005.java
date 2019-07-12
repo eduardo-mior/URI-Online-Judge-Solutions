@@ -28,10 +28,10 @@ public class URI 1005 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        double A = leitor.nextDouble();
-        double B = leitor.nextDouble();
-        double MEDIA = ((3.5*A) + (7.5*B))/11;
-        System.out.println(String.format("MEDIA = %.5f" , MEDIA));
+        double a = leitor.nextDouble();
+        double b = leitor.nextDouble();
+        double media = ((3.5 * a) + (7.5 * b))/11;
+        System.out.println(String.format("MEDIA = %.5f" , media));
     }
 	
 }

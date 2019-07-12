@@ -23,12 +23,12 @@ public class URI 1007 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int A = leitor.nextInt();
-        int B = leitor.nextInt();
-        int C = leitor.nextInt();
-        int D = leitor.nextInt();
-        int DIFERENCA = (A * B - C * D);
-        System.out.println("DIFERENCA = " + DIFERENCA);
+        int a = leitor.nextInt();
+        int b = leitor.nextInt();
+        int c = leitor.nextInt();
+        int d = leitor.nextInt();
+        int diferenca = a * b - c * d;
+        System.out.println("DIFERENCA = " + diferenca);
     }
 	
 }
