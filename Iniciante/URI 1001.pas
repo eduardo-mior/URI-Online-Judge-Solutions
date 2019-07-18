@@ -6,6 +6,8 @@ var
 begin
     read(a);
     read(b);
+	
     x := a + b;
+	
     writeln('X = ', x);
 end.

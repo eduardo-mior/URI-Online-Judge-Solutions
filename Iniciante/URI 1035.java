@@ -27,7 +27,6 @@ public class URI 1035 {
         int B = leitor.nextInt();
         int C = leitor.nextInt();
         int D = leitor.nextInt();
-        boolean aceitar = true;
         
         if ((B > C) && (D > A) && ((C+D) > (A+B)) && (C > 0) && (D > 0) && (A % 2 == 0)) System.out.println("Valores aceitos"); 
         else System.out.println("Valores nao aceitos");

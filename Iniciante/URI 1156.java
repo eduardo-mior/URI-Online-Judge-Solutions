@@ -24,7 +24,7 @@ public class URI 1156 {
     	int cont = 2;
     	for (int i = 3; i <= 39; i++) {
     		if (i % 2 == 1)  {
-    			S += (double)i / cont;
+    			S += (double) i / cont;
         		cont *= 2.00;
     		}
     	}

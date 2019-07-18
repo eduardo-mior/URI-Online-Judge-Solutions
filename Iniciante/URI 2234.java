@@ -38,8 +38,8 @@ public class URI 2234 {
  
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
-		double H = leitor.nextInt();
-		double P = leitor.nextInt();
+		double H = leitor.nextDouble();
+		double P = leitor.nextDouble();
 		double media = H / P;
 		System.out.println(String.format("%.2f", media));
 	}

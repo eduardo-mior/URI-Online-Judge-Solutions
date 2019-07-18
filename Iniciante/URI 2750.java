@@ -78,11 +78,11 @@ public class URI 2750 {
         		
         		else {
         			if (j == 8)
-        				System.out.print(Integer.toString(i-4));
+        				System.out.print(Integer.toString(i - 4));
         			else if (j == 18)
-        				System.out.print(Integer.toOctalString(i-4));
+        				System.out.print(Integer.toOctalString(i - 4));
         			else if (j == 31)
-        				System.out.print(Integer.toHexString(i-4).toUpperCase());
+        				System.out.print(Integer.toHexString(i - 4).toUpperCase());
         			else if (!(i > 11 && j == 14) && !(i > 13 && j == 2))
         				System.out.print(" ");
         		}

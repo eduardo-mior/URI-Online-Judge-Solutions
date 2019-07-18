@@ -29,19 +29,19 @@ public class URI 1012 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        double A = leitor.nextDouble();
-        double B = leitor.nextDouble();
-        double C = leitor.nextDouble();
-        double TRIANGULO = A * C / 2.0;
-        double CIRCULO = 3.14159 * (C * C);
-        double TRAPEZIO = ((A  + B) * C  )/ 2;
-        double QUADRADO = B * B;
-        double RETANGULO = A * B;
-        System.out.println(String.format("TRIANGULO: %.3f", TRIANGULO));
-        System.out.println(String.format("CIRCULO: %.3f", CIRCULO));
-        System.out.println(String.format("TRAPEZIO: %.3f", TRAPEZIO));
-        System.out.println(String.format("QUADRADO: %.3f", QUADRADO));
-        System.out.println(String.format("RETANGULO: %.3f", RETANGULO));  
+        double a = leitor.nextDouble();
+        double b = leitor.nextDouble();
+        double c = leitor.nextDouble();
+        double triangulo = a * c / 2.0;
+        double circulo = 3.14159 * (c * c);
+        double trapezio = ((a + b) * c) / 2;
+        double quadrado = b * b;
+        double retangulo = a * b;
+        System.out.println(String.format("TRIANGULO: %.3f", triangulo));
+        System.out.println(String.format("CIRCULO: %.3f", circulo));
+        System.out.println(String.format("TRAPEZIO: %.3f", trapezio));
+        System.out.println(String.format("QUADRADO: %.3f", quadrado));
+        System.out.println(String.format("RETANGULO: %.3f", retangulo));  
     }
 	
 }

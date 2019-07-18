@@ -1,0 +1,13 @@
+Printf.printf "I=1 J=60\n";
+Printf.printf "I=4 J=55\n";
+Printf.printf "I=7 J=50\n";
+Printf.printf "I=10 J=45\n";
+Printf.printf "I=13 J=40\n";
+Printf.printf "I=16 J=35\n";
+Printf.printf "I=19 J=30\n";
+Printf.printf "I=22 J=25\n";
+Printf.printf "I=25 J=20\n";
+Printf.printf "I=28 J=15\n";
+Printf.printf "I=31 J=10\n";
+Printf.printf "I=34 J=5\n";
+Printf.printf "I=37 J=0\n";

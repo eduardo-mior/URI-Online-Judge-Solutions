@@ -23,7 +23,7 @@ public class URI 1078 {
     	Scanner leitor = new Scanner(System.in);
     	int N = leitor.nextInt();
     	for (int i = 1; i <= 10; i++) {
-    		System.out.println(i + " x " + N + " = " + (N*i));
+    		System.out.println(i + " x " + N + " = " + (N * i));
     	}
 	}
 	

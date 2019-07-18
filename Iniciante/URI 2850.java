@@ -29,7 +29,7 @@ public class URI 2850 {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         while (leitor.hasNext()) {
-            String str = leitor.next	     ();
+            String str = leitor.next();
             if (str.equalsIgnoreCase("esquerda")) System.out.println("ingles");
             else if (str.equalsIgnoreCase("direita")) System.out.println("frances");
             else if (str.equalsIgnoreCase("nenhuma")) System.out.println("portugues");

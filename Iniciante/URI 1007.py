@@ -12,7 +12,6 @@ def read_integer():
     # read for Python 3.x
     return int(input())
 
-
 A = read_integer()
 B = read_integer()
 C = read_integer()

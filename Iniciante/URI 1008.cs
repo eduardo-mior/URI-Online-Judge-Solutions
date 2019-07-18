@@ -7,7 +7,6 @@ class URI {
         int horas = int.Parse(Console.ReadLine());
 		double valorPorHora = double.Parse(Console.ReadLine());
 		double salario = horas * valorPorHora;
-
         Console.WriteLine("NUMBER = {0}", funcionarios);
 		Console.WriteLine("SALARY = U$ {0:F2}", salario);
     }

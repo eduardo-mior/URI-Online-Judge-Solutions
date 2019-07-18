@@ -1,0 +1,1 @@
+Printf.printf "6.00\n";

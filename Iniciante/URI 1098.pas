@@ -1,0 +1,35 @@
+begin
+    writeln('I=0 J=1');
+    writeln('I=0 J=2');
+    writeln('I=0 J=3');
+    writeln('I=0.2 J=1.2');
+    writeln('I=0.2 J=2.2');
+    writeln('I=0.2 J=3.2');
+    writeln('I=0.4 J=1.4');
+    writeln('I=0.4 J=2.4');
+    writeln('I=0.4 J=3.4');
+    writeln('I=0.6 J=1.6');
+    writeln('I=0.6 J=2.6');
+    writeln('I=0.6 J=3.6');
+    writeln('I=0.8 J=1.8');
+    writeln('I=0.8 J=2.8');
+    writeln('I=0.8 J=3.8');
+    writeln('I=1 J=2');
+    writeln('I=1 J=3');
+    writeln('I=1 J=4');
+    writeln('I=1.2 J=2.2');
+    writeln('I=1.2 J=3.2');
+    writeln('I=1.2 J=4.2');
+    writeln('I=1.4 J=2.4');
+    writeln('I=1.4 J=3.4');
+    writeln('I=1.4 J=4.4');
+    writeln('I=1.6 J=2.6');
+    writeln('I=1.6 J=3.6');
+    writeln('I=1.6 J=4.6');
+    writeln('I=1.8 J=2.8');
+    writeln('I=1.8 J=3.8');
+    writeln('I=1.8 J=4.8');
+    writeln('I=2 J=3');
+    writeln('I=2 J=4');
+    writeln('I=2 J=5');
+end.

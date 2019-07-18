@@ -1,0 +1,17 @@
+main :: IO ()
+main = do
+    putStrLn $ "I=1 J=7"
+    putStrLn $ "I=1 J=6"
+    putStrLn $ "I=1 J=5"
+    putStrLn $ "I=3 J=9"
+    putStrLn $ "I=3 J=8"
+    putStrLn $ "I=3 J=7"
+    putStrLn $ "I=5 J=11"
+    putStrLn $ "I=5 J=10"
+    putStrLn $ "I=5 J=9"
+    putStrLn $ "I=7 J=13"
+    putStrLn $ "I=7 J=12"
+    putStrLn $ "I=7 J=11"
+    putStrLn $ "I=9 J=15"
+    putStrLn $ "I=9 J=14"
+    putStrLn $ "I=9 J=13"

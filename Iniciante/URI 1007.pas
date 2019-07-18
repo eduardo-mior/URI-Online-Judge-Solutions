@@ -10,6 +10,8 @@ begin
     read(b);
     read(c);
     read(d);
+	
     diferenca := a * b - c * d;
+	
     writeln('DIFERENCA = ', diferenca);
 end.

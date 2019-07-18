@@ -47,13 +47,13 @@ public class URI 2846 {
 		System.out.println(res);
 	}
 
-	private static boolean Square(long x){
+	private static boolean square(long x){
 		long s = (long) Math.sqrt(x);
 		return s * s == x;
 	}
 	
 	private static boolean isFib(long c) {
-		return (Square(5 * c * c + 4) || Square(5 * c * c - 4)) ;
+		return (square(5 * c * c + 4) || square(5 * c * c - 4)) ;
 	}
 	
 }

@@ -10,6 +10,8 @@ var
 begin
     readLn(cod1, n1, valor1);
     readLn(cod2, n2, valor2);
+	
     total := (n1 * valor1) + (n2 * valor2);
+	
     writeln('VALOR A PAGAR: R$ ', total:0:2);
 end.

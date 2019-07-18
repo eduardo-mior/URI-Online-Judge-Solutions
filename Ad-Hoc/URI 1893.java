@@ -30,16 +30,21 @@ import java.util.Scanner;
 
 public class URI 1893 {
 
-	public static void main(String[] args) {
-		Scanner leitor = new Scanner(System.in);
-		
-		int inicio = leitor.nextInt();
-		int finau = leitor.nextInt();
-		
-		     if (inicio >= 0      && finau <= 2 ) System.out.println("nova"     );
-		else if (finau  >  inicio && finau <= 96) System.out.println("crescente");
-		else if (inicio >= finau  && finau <= 96) System.out.println("minguante");
-		else                                      System.out.println("cheia"    );	
-	}
+    public static void main(String[] args) {
+        Scanner leitor = new Scanner(System.in);
+        
+        int inicio = leitor.nextInt();
+        int finau = leitor.nextInt();
+        
+        if (inicio >= 0 && finau <= 2) {
+            System.out.println("nova");
+        } else if (finau > inicio && finau <= 96) {
+            System.out.println("crescente");
+        } else if (inicio >= finau && finau <= 96) {
+            System.out.println("minguante");
+        } else { 
+            System.out.println("cheia");
+        }
+    }
 
 }

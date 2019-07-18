@@ -24,9 +24,9 @@ public class URI 1014 {
 	
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int X = leitor.nextInt();
-        double Y = leitor.nextDouble();
-        double media = X/Y;
+        int x = leitor.nextInt();
+        double y = leitor.nextDouble();
+        double media = x / y;
         System.out.println(String.format("%.3f km/l", media));   
     }
 	

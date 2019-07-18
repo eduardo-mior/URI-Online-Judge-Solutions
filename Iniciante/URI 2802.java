@@ -28,7 +28,7 @@ public class URI 2802 {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         int N = leitor.nextInt();
-        double resposta = ((Math.pow(N, 4.0)) - (6.0 * (Math.pow(N, 3.0))) + (23.0 * (Math.pow(N, 2.00))) - (18.0 * N) + 24.0 ) / 24;
+        double resposta = (Math.pow(N, 4.0) - (6.0 * Math.pow(N, 3.0)) + (23.0 * Math.pow(N, 2.0)) - (18.0 * N) + 24.0 ) / 24.0;
         System.out.println(String.format("%.0f", resposta));
     }
 	

@@ -6,7 +6,7 @@ object Main {
         val leitor = new Scanner(System.in)
         val a = leitor.nextInt()
         val b = leitor.nextInt()
-		val x = a + b
+        val x = a + b
         println("X = " + x)
     }
 	

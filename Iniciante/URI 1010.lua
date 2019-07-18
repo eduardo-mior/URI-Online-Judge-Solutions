@@ -1,5 +1,5 @@
 line1 = {}
-n = 0;
+n = 0
 for i in string.gmatch(io.read("*l"), "%S+") do
    n = n + 1
    line1[n] = i
@@ -9,7 +9,7 @@ n1 = tonumber(line1[2])
 valor1 = tonumber(line1[3])
 
 line2 = {}
-n = 0;
+n = 0
 for i in string.gmatch(io.read("*l"), "%S+") do
    n = n + 1
    line2[n] = i

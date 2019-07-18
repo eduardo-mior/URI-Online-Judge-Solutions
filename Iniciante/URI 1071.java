@@ -28,15 +28,15 @@ public class URI 1071 {
 		int Y = leitor.nextInt();
 
 		if (X < Y) {
-			for (int i=X+1; i < Y; i++) {
+			for (int i = X + 1; i < Y; i++) {
 				if (i % 2 != 0) {
-					soma+=i;
+					soma += i;
 				}
 			}
 		} else {
-			for (int i=Y+1; i < X; i++) {
+			for (int i= Y + 1; i < X; i++) {
 				if (i % 2 != 0) {
-					soma+=i;
+					soma += i;
 				}
 			}
 		}
