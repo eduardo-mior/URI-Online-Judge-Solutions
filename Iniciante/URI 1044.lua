@@ -8,7 +8,7 @@ a = tonumber(line[1])
 b = tonumber(line[2])
 
 if (a % b == 0 or b % a == 0) then
-	print('Sao Multiplos')
+    print('Sao Multiplos')
 else
-	print('Nao sao Multiplos')
+    print('Nao sao Multiplos')
 end

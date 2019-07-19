@@ -19,21 +19,21 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class URI 1046 {
-	
+    
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
-        int hInicial = leitor.nextInt();
-        int hFinal = leitor.nextInt();
-        int horas;
-        if (hInicial > hFinal) { 
-            horas = 24 - (hInicial - hFinal);
-            System.out.println("O JOGO DUROU " + horas + " HORA(S)");
-        } else if (hFinal > hInicial) {
-            horas = hFinal - hInicial;
-            System.out.println("O JOGO DUROU " + horas + " HORA(S)");
-        } else {
-           System.out.println("O JOGO DUROU 24 HORA(S)");
-        }
+		
+int hInicial = leitor.nextInt();
+int hFinal = leitor.nextInt();
+
+if (hInicial > hFinal) { 
+	System.out.println("O JOGO DUROU " + (24 - (hInicial - hFinal)) + " HORA(S)");
+} else if (hFinal > hInicial) {
+	System.out.println("O JOGO DUROU " + (hFinal - hInicial) + " HORA(S)");
+} else {
+	System.out.println("O JOGO DUROU 24 HORA(S)");
+}
+
     }
-	
+    
 }

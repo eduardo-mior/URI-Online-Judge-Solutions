@@ -1,0 +1,11 @@
+n = gets.to_i 
+puts "1 x #{n} = #{n * 1}"
+puts "2 x #{n} = #{n * 2}"
+puts "3 x #{n} = #{n * 3}"
+puts "4 x #{n} = #{n * 4}"
+puts "5 x #{n} = #{n * 5}"
+puts "6 x #{n} = #{n * 6}"
+puts "7 x #{n} = #{n * 7}"
+puts "8 x #{n} = #{n * 8}"
+puts "9 x #{n} = #{n * 9}"
+puts "10 x #{n} = #{n * 10}"

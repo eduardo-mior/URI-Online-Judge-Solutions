@@ -46,7 +46,7 @@ public class URI 1045 {
 			C = aux;
 		}
 		
-		if (A >= (B+C)) { 
+		if (A >= (B + C)) { 
 			System.out.println("NAO FORMA TRIANGULO");
 		} else {
 			if (A*A == (B*B) + (C*C)) System.out.println("TRIANGULO RETANGULO");

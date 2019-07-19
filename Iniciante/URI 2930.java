@@ -32,19 +32,16 @@ public class URI 2930 {
 	
     public static void main(String[] args) throws IOException {
     	Scanner leitor = new Scanner(System.in);
-    	int E = leitor.nextInt();
-    	int D = leitor.nextInt();
-    	if (E > D) {
+    	int e = leitor.nextInt();
+    	int d = leitor.nextInt();
+    	if (e > d) {
     		System.out.println("Eu odeio a professora!");
-    	} else if ((D - E) >= 3) {
+    	} else if ((d - e) >= 3) {
     		System.out.println("Muito bem! Apresenta antes do Natal!");
+    	} else if ((e + 2) < 24) {
+    		System.out.println("Parece o trabalho do meu filho!\nTCC Apresentado!");
     	} else {
-    		System.out.println("Parece o trabalho do meu filho!");
-    		if (E + 2 < 24) {
-    			System.out.println("TCC Apresentado!");
-    		} else {
-    			System.out.println("Fail! Entao eh nataaaaal!");
-    		}
+    		System.out.println("Parece o trabalho do meu filho!\nFail! Entao eh nataaaaal!");
     	}
     }
     

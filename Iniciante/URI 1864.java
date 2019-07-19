@@ -40,9 +40,9 @@ public class URI 1864 {
 	
     public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
+		int n = leitor.nextInt();
 		String citacao = "LIFE IS NOT A PROBLEM TO BE SOLVED";
-		int N = leitor.nextInt();
-		System.out.println(citacao.substring(0, N));
+		System.out.println(citacao.substring(0, n));
     }
 	
 }

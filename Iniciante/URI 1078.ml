@@ -1,0 +1,11 @@
+let n = read_int();;
+Printf.printf "1 x %d = %d\n" (n) (n * 1);
+Printf.printf "2 x %d = %d\n" (n) (n * 2);
+Printf.printf "3 x %d = %d\n" (n) (n * 3);
+Printf.printf "4 x %d = %d\n" (n) (n * 4);
+Printf.printf "5 x %d = %d\n" (n) (n * 5);
+Printf.printf "6 x %d = %d\n" (n) (n * 6);
+Printf.printf "7 x %d = %d\n" (n) (n * 7);
+Printf.printf "8 x %d = %d\n" (n) (n * 8);
+Printf.printf "9 x %d = %d\n" (n) (n * 9);
+Printf.printf "10 x %d = %d\n" (n) (n * 10);

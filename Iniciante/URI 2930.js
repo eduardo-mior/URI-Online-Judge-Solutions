@@ -9,11 +9,8 @@ if (E > D) {
     console.log('Eu odeio a professora!');
 } else if ((D - E) >= 3) {
     console.log('Muito bem! Apresenta antes do Natal!');
+} else if ((E + 2) < 24) {
+    console.log('Parece o trabalho do meu filho!\nTCC Apresentado!');
 } else {
-    console.log('Parece o trabalho do meu filho!');
-    if (E + 2 < 24) {
-        console.log('TCC Apresentado!');
-    } else {
-        console.log('Fail! Entao eh nataaaaal!');
-    }
+    console.log('Parece o trabalho do meu filho!\nFail! Entao eh nataaaaal!');
 }
