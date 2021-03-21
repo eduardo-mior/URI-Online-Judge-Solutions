@@ -1,0 +1,8 @@
+write("<AMO FAZER EXERCICIO NO URI>", '')
+write("<    AMO FAZER EXERCICIO NO URI>", '')
+write("<AMO FAZER EXERCICIO >", '')
+write("<AMO FAZER EXERCICIO NO URI>", '')
+write("<AMO FAZER EXERCICIO NO URI    >", '')
+write("<AMO FAZER EXERCICIO NO URI>", '')
+write("<          AMO FAZER EXERCICIO >", '')
+write("<AMO FAZER EXERCICIO           >", '')
