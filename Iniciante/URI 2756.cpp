@@ -1,13 +1,18 @@
 #include <iostream>
  
-int main() { 
-    printf("       A\n");
-    printf("      B B\n");
-    printf("     C   C\n");
-    printf("    D     D\n");
-    printf("   E       E\n");
-    printf("    D     D\n");
-    printf("     C   C\n");
-    printf("      B B\n");
-    printf("       A\n");
+using namespace std;
+ 
+int main() {
+ 
+    cout << "       A" << endl;
+    cout << "      B B" << endl;
+    cout << "     C   C" << endl;
+    cout << "    D     D" << endl;
+    cout << "   E       E" << endl;
+    cout << "    D     D" << endl;
+    cout << "     C   C" << endl;
+    cout << "      B B" << endl;
+    cout << "       A" << endl;
+ 
+    return 0;
 }
